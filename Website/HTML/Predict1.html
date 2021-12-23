@@ -1,0 +1,426 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style>
+		input[type=text],[type=date] {
+			height:40px;
+			font-size:12pt;
+			font-family: Arial;
+			color: white;
+  width: 400px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border:  1px solid lightblue;
+  border-radius: 7px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+	input[type=text]:focus {
+  border: 1px solid lightblue;
+  box-shadow: 0 0 10px #719ECE ;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  border-radius: 4px;
+  margin-right: 2px;
+  opacity: 1.0;
+  filter: invert(0.0);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator:hover {
+  opacity: 0.5
+}
+
+textarea {
+    border: none;
+    outline: none;
+    width: 540px;
+    background-color: transparent;
+
+}
+
+
+</style>
+<meta charset="utf-8">
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+
+ <form>
+            <div class="w3-bar" style=" padding: 10px;">
+			<div class="w3-half" style="height:800px; width:52%; padding: 10px; float: left;">
+            <div class="w3-bar" style="color:#B48C15;">
+                <h2>Input(s) to the model</h2>
+                
+            </div>
+            <div class="w3-bar" style="border: 1px solid lightblue ; padding: 10px; border-radius: 10px;  ">
+                <div class="w3-bar" style="min-height: 250px;max-height: 800px; overflow-y: auto;">
+               
+                <div id="id_mlos_prediction">
+
+                  <div style="background-color: blue;">
+                    <div class="form-group" style="float: left;"><label for="sex" style="font-size: 18px; color:black;">QUANTITY</label></div>
+                    <div class="form-group" style="position: absolute;  left: 200px;" ><label for="sex" style="font-size: 18px; color:black;">TRANSFORMATION</label></div>
+                    <div class="form-group" style="position: absolute;  left: 500px;"><label for="sex" style="font-size: 18px; color:black;">DESCRIPTION</label></div>
+                  </div>
+                  
+                  <div id ="1" style="max-height:  25px;">
+                      <br>
+                      <br>
+                      <div style ="float: left;">
+                      <input type="text" style = "width: 100px;font-size: 15px; color: black; background-color: transparent; float: left;"  id="unit_1" class="form-control"  name="unit" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');">
+                      </div>
+                     <div style = "position: absolute;  left: 200px;">
+
+                                <select name="choice" style = "border:  1px solid lightblue;height: 40px; border-radius: 10px; margin-top: 9px; " id ="choice_1">
+                                  <option value="first" selected>---Select---</option>
+                                  <option value="second" >BRICK WORK</option>
+                                  <option value="third">CCTC SERVEILLANCE SYSTEM</option>
+                                  <option value="third">CONCRETE WORK</option>
+                                  <option value="third">EARTH WORK</option>
+                                  <option value="third">EXTERNAL DEVELOPMENT WORK</option>
+                                  <option value="third">FAÇADE WORK</option>
+                                  <option value="third">FIRE ALARM DETECTION SYSTEM</option>
+                                  <option value="third">FIRE FIGHTING SYSTEM</option>
+                                  <option value="third">FLOORING WORK</option>
+                                  <option value="third">HVAC SYSTEM OF HOSTEL BLOCK</option>
+                                  <option value="third">HVAC SYSTEM OF OFFICE BLOCK</option>
+                                  <option value="third">HORTICULTURE WORK</option>
+                                  <option value="third">LANDSCAPING IRRIGATION WORK</option>
+                                  <option value="third">LOW SIDE ELECTRICAL WORK</option>
+                                  <option value="third">PILING WORK</option>
+                                  <option value="third">REINFORCEMNT CONCRETE WORK</option>
+                                  <option value="third">SOIL,WASTE, VENT PIPE (PHE)</option>
+                                  <option value="third">STRUCTURAL STEEL WORK</option>
+                                  <option value="third">WATER PROOFING TREATMENT</option>
+                                  <option value="third">WATER SUPPLY SYSTEM (PHE)</option>
+                                </select>
+                      </div>
+                               
+                      <div style = "position: absolute;  left: 500px;">
+                          <input type="text" style = "width: 200px;font-size: 15px; color: black; background-color: transparent; "  id="desc_1" class="form-control"  name="unit">
+                      </div>
+                  </div>
+                  <br>
+                  <br>
+                  <div id ="2" style="max-height:  25px;">
+                      <br>
+                      <br>
+                      <div style ="float: left;">
+                      <input type="text" style = "width: 100px;font-size: 15px; color: black; background-color: transparent; float: left;"  id="unit_2" class="form-control"  name="unit" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');">
+                      </div>
+                     <div style = "position: absolute;  left: 200px;">
+
+                                <select name="choice" style = "border:  1px solid lightblue;height: 40px; border-radius: 10px; margin-top: 9px; " id ="choice_2">
+                                  <option value="first" selected>---Select---</option>
+                                  <option value="second" >BRICK WORK</option>
+                                  <option value="third">CCTC SERVEILLANCE SYSTEM</option>
+                                  <option value="third">CONCRETE WORK</option>
+                                  <option value="third">EARTH WORK</option>
+                                  <option value="third">EXTERNAL DEVELOPMENT WORK</option>
+                                  <option value="third">FAÇADE WORK</option>
+                                  <option value="third">FIRE ALARM DETECTION SYSTEM</option>
+                                  <option value="third">FIRE FIGHTING SYSTEM</option>
+                                  <option value="third">FLOORING WORK</option>
+                                  <option value="third">HVAC SYSTEM OF HOSTEL BLOCK</option>
+                                  <option value="third">HVAC SYSTEM OF OFFICE BLOCK</option>
+                                  <option value="third">HORTICULTURE WORK</option>
+                                  <option value="third">LANDSCAPING IRRIGATION WORK</option>
+                                  <option value="third">LOW SIDE ELECTRICAL WORK</option>
+                                  <option value="third">PILING WORK</option>
+                                  <option value="third">REINFORCEMNT CONCRETE WORK</option>
+                                  <option value="third">SOIL,WASTE, VENT PIPE (PHE)</option>
+                                  <option value="third">STRUCTURAL STEEL WORK</option>
+                                  <option value="third">WATER PROOFING TREATMENT</option>
+                                  <option value="third">WATER SUPPLY SYSTEM (PHE)</option>
+                                </select>
+                      </div>
+                               
+                      <div style = "position: absolute;  left: 500px;">
+                          <input type="text" style = "width: 200px;font-size: 15px; color: black; background-color: transparent; "  id="desc_2" class="form-control"  name="unit">
+                      </div>
+                  </div>
+                  <br>
+                  <br>
+                  <div id ="3" style="max-height:  25px;">
+                      <br>
+                      <br>
+                      <div style ="float: left;">
+                      <input type="text" style = "width: 100px;font-size: 15px; color: black; background-color: transparent; float: left;"  id="unit_3" class="form-control"  name="unit" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');">
+                      </div>
+                     <div style = "position: absolute;  left: 200px;">
+
+                                <select name="choice" style = "border:  1px solid lightblue;height: 40px; border-radius: 10px; margin-top: 9px; " id ="choice_3">
+                                  <option value="first" selected>---Select---</option>
+                                  <option value="second" >BRICK WORK</option>
+                                  <option value="third">CCTC SERVEILLANCE SYSTEM</option>
+                                  <option value="third">CONCRETE WORK</option>
+                                  <option value="third">EARTH WORK</option>
+                                  <option value="third">EXTERNAL DEVELOPMENT WORK</option>
+                                  <option value="third">FAÇADE WORK</option>
+                                  <option value="third">FIRE ALARM DETECTION SYSTEM</option>
+                                  <option value="third">FIRE FIGHTING SYSTEM</option>
+                                  <option value="third">FLOORING WORK</option>
+                                  <option value="third">HVAC SYSTEM OF HOSTEL BLOCK</option>
+                                  <option value="third">HVAC SYSTEM OF OFFICE BLOCK</option>
+                                  <option value="third">HORTICULTURE WORK</option>
+                                  <option value="third">LANDSCAPING IRRIGATION WORK</option>
+                                  <option value="third">LOW SIDE ELECTRICAL WORK</option>
+                                  <option value="third">PILING WORK</option>
+                                  <option value="third">REINFORCEMNT CONCRETE WORK</option>
+                                  <option value="third">SOIL,WASTE, VENT PIPE (PHE)</option>
+                                  <option value="third">STRUCTURAL STEEL WORK</option>
+                                  <option value="third">WATER PROOFING TREATMENT</option>
+                                  <option value="third">WATER SUPPLY SYSTEM (PHE)</option>
+                                </select>
+                      </div>
+                               
+                      <div style = "position: absolute;  left: 500px;">
+                          <input type="text" style = "width: 200px;font-size: 15px; color: black; background-color: transparent; "  id="desc_3" class="form-control"  name="unit">
+                      </div>
+                  </div>
+                  <br>
+                  <br>
+                  <div id ="4" style="max-height:  25px;">
+                      <br>
+                      <br>
+                      <div style ="float: left;">
+                      <input type="text" style = "width: 100px;font-size: 15px; color: black; background-color: transparent; float: left;"  id="unit_4" class="form-control"  name="unit" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');">
+                      </div>
+                     <div style = "position: absolute;  left: 200px;">
+
+                                <select name="choice" style = "border:  1px solid lightblue;height: 40px; border-radius: 10px; margin-top: 9px; " id ="choice_4">
+                                  <option value="first" selected>---Select---</option>
+                                  <option value="second" >BRICK WORK</option>
+                                  <option value="third">CCTC SERVEILLANCE SYSTEM</option>
+                                  <option value="third">CONCRETE WORK</option>
+                                  <option value="third">EARTH WORK</option>
+                                  <option value="third">EXTERNAL DEVELOPMENT WORK</option>
+                                  <option value="third">FAÇADE WORK</option>
+                                  <option value="third">FIRE ALARM DETECTION SYSTEM</option>
+                                  <option value="third">FIRE FIGHTING SYSTEM</option>
+                                  <option value="third">FLOORING WORK</option>
+                                  <option value="third">HVAC SYSTEM OF HOSTEL BLOCK</option>
+                                  <option value="third">HVAC SYSTEM OF OFFICE BLOCK</option>
+                                  <option value="third">HORTICULTURE WORK</option>
+                                  <option value="third">LANDSCAPING IRRIGATION WORK</option>
+                                  <option value="third">LOW SIDE ELECTRICAL WORK</option>
+                                  <option value="third">PILING WORK</option>
+                                  <option value="third">REINFORCEMNT CONCRETE WORK</option>
+                                  <option value="third">SOIL,WASTE, VENT PIPE (PHE)</option>
+                                  <option value="third">STRUCTURAL STEEL WORK</option>
+                                  <option value="third">WATER PROOFING TREATMENT</option>
+                                  <option value="third">WATER SUPPLY SYSTEM (PHE)</option>
+                                </select>
+                      </div>
+                               
+                      <div style = "position: absolute;  left: 500px;">
+                          <input type="text" style = "width: 200px;font-size: 15px; color: black; background-color: transparent; "  id="desc_4" class="form-control"  name="unit">
+                      </div>
+                  </div>
+
+                  <br>
+                  <br>
+                  <div id ="5" style="max-height:  25px;">
+                      <br>
+                      <br>
+                      <div style ="float: left;">
+                      <input type="text" style = "width: 100px;font-size: 15px; color: black; background-color: transparent; float: left;"  id="unit_5" class="form-control"  name="unit" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*)\./g, '$1');">
+                      </div>
+                     <div style = "position: absolute;  left: 200px;">
+
+                                <select name="choice" style = "border:  1px solid lightblue;height: 40px; border-radius: 10px; margin-top: 9px; " id ="choice_5">
+                                  <option value="first" selected>---Select---</option>
+                                  <option value="second" >BRICK WORK</option>
+                                  <option value="third">CCTC SERVEILLANCE SYSTEM</option>
+                                  <option value="third">CONCRETE WORK</option>
+                                  <option value="third">EARTH WORK</option>
+                                  <option value="third">EXTERNAL DEVELOPMENT WORK</option>
+                                  <option value="third">FAÇADE WORK</option>
+                                  <option value="third">FIRE ALARM DETECTION SYSTEM</option>
+                                  <option value="third">FIRE FIGHTING SYSTEM</option>
+                                  <option value="third">FLOORING WORK</option>
+                                  <option value="third">HVAC SYSTEM OF HOSTEL BLOCK</option>
+                                  <option value="third">HVAC SYSTEM OF OFFICE BLOCK</option>
+                                  <option value="third">HORTICULTURE WORK</option>
+                                  <option value="third">LANDSCAPING IRRIGATION WORK</option>
+                                  <option value="third">LOW SIDE ELECTRICAL WORK</option>
+                                  <option value="third">PILING WORK</option>
+                                  <option value="third">REINFORCEMNT CONCRETE WORK</option>
+                                  <option value="third">SOIL,WASTE, VENT PIPE (PHE)</option>
+                                  <option value="third">STRUCTURAL STEEL WORK</option>
+                                  <option value="third">WATER PROOFING TREATMENT</option>
+                                  <option value="third">WATER SUPPLY SYSTEM (PHE)</option>
+                                </select>
+                      </div>
+                               
+                      <div style = "position: absolute;  left: 500px;">
+                          <input type="text" style = "width: 200px;font-size: 15px; color: black; background-color: transparent; "  id="desc_5" class="form-control"  name="unit">
+                      </div>
+                  </div>
+                  
+                </div>
+                    
+                  </div>
+
+                  <div>
+                    
+                       
+                   <div  style="float: left;">
+                    <br>
+                    <br>
+                   <div class="form-group"><label for="sex" style="font-size: 18px; color:black;">START DATE:</label></div>
+                   <br>
+                   <div><input type="date"  style = "width: 190px;font-size: 15px; color: black; background-color: transparent;" id="input_feature_1" class="form-control"  name="sex"></div>
+                   </div>
+                     <div  style="position: absolute;  left: 250px;">
+                      <br>
+                    <br>
+                     <div class="form-group"><label for="sex" style="font-size: 18px; color:black;">END DATE:</label></div>
+                     <br>
+                     <div><input type="date" style = "width: 190px;font-size: 15px; color: black; background-color: transparent;" id="input_feature_2" class="form-control"  name="sex"> </div>
+                    </div>
+                     <div style="position: absolute;  left: 600px;">
+                      <br>
+                      <br>
+                      <br>
+                      <br>
+
+                      <button type="reset" value="Reset" style="height: 40px; width: 100px; margin-top: 11px;" onclick="document.getElementById('result').innerHTML = '[ ]';">RESET</button> 
+                    </div>
+
+                  </div>
+    					
+                </div>
+                </div>
+            </div>
+     
+        
+ </form>
+
+
+
+<div class="w3-half" style="height:800px; width:45%; float: right;">
+        <div class="w3-bar" style="color:#B48C15;">
+                <h2>Model Output</h2>
+        </div>
+            <div class="w3-bar" style="border: 1px solid lightblue ; padding: 10px; border-radius: 10px;">
+                <div class="w3-bar" style="min-height: 335px;max-height: 800px; overflow-y: auto;">
+                	<div class="w3-bar" style = "text-align: center;">
+                   		 
+                       
+                       <button type="button" onclick="loadXMLDoc()">PREDICT</button>
+                	</div>
+                		<div class="w3-bar" style="padding-top: 30px; width:100%;">
+                    		<div class="w3-half">
+                        		<span style="font-size: 18px; color:black;">RESPONSE FROM MODEL:</span>
+                    		</div>
+                        		<br>
+                        		<div class="w3-bar " style="border: 1px solid lightblue; border-radius: 10px; padding: 20px; width:92%;">
+                            		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+                                
+                                <label id= "result" style="font-size: 18px; color:black; width: 100%;">[ ]</label>
+
+                        		</div>
+                    	</div>
+            	</div>
+            </div>
+</div>
+
+
+<script>
+
+  
+function loadXMLDoc() {
+
+var myHeaders = new Headers();
+
+var val1 = []
+for (let i = 1; i < 6; i++) {
+  if (document.getElementById("unit_"+i).value != '') {
+    val1.push(document.getElementById("unit_"+i).value)
+  }
+}
+console.log(val1)
+
+var val6 = []
+for (let i = 1; i < 6; i++) {
+  if (document.getElementById("choice_"+i).value != 'first') {
+    var drop = document.getElementById("choice_"+i)
+    var opt = drop.options[drop.selectedIndex]
+    val6.push(opt.text)
+  }
+}
+
+
+var val3 = []
+for (let i = 1; i < 6; i++) {
+  if (document.getElementById("desc_"+i).value != '') {
+    val3.push(document.getElementById("desc_"+i).value)
+  }
+}
+
+
+
+var val4 = document.getElementById("input_feature_1").value
+var val5 = document.getElementById("input_feature_2").value
+
+var startDate = new Date(val4);
+  var endDate   = new Date(val5);
+
+
+
+
+  if (startDate >= endDate) {
+    alert("End Date cannot occur before the Start Date!");
+  } else if (document.getElementById("unit_1").value != '' && document.getElementById("choice_1").value == 'first') {
+      alert("Please select transformation");
+  } else if (document.getElementById("unit_2").value != '' && document.getElementById("choice_2").value == 'first') {
+      alert("Please select transformation");
+  } else if (document.getElementById("unit_3").value != '' && document.getElementById("choice_3").value == 'first') {
+      alert("Please select transformation");
+  } else if (document.getElementById("unit_4").value != '' && document.getElementById("choice_4").value == 'first') {
+      alert("Please select transformation");
+  } else if (document.getElementById("unit_5").value != '' && document.getElementById("choice_5").value == 'first') {
+      alert("Please select transformation");
+  } else {
+    
+    var raw = JSON.stringify({"data":[val1,val6,val3,val4,val5]});
+
+    var requestOptions = {
+      method: 'POST',
+      headers: myHeaders,
+      body: raw,
+      redirect: 'follow'
+    };
+
+fetch("http://127.0.0.1:5007/predict", requestOptions)
+  .then(response => response.text())
+  .then(result1 => $("#result").text((JSON.parse(result1)["resp"])))
+  .catch(error => console.log('error', error));
+  }
+ }
+
+
+
+
+
+   </script>
+</body>
+
+
+
+<script type="text/javascript">
+  $("textarea").each(function () {
+  this.setAttribute("style", "height:" + (this.scrollHeight) + "px;overflow-y:hidden;");
+}).on("input", function () {
+  this.style.height = "auto";
+  this.style.height = (this.scrollHeight) + "px";
+});
+</script>
+</html>
