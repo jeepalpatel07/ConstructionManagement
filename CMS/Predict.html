@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style>
+		input[type=text],[type=date] {
+			height:50px;
+			font-size:12pt;
+			font-family: Arial;
+			color: white;
+  width: 400px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border:  1px solid lightblue;
+  border-radius: 10px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+	input[type=text]:focus {
+  border: 1px solid lightblue;
+  box-shadow: 0 0 10px #719ECE ;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  border-radius: 4px;
+  margin-right: 2px;
+  opacity: 0.6;
+  filter: invert(1.0);
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator:hover {
+  opacity: 1
+}
+</style>
+</head>
+<body>
+
+
+            <div class="w3-bar" style=" padding: 20px;">
+			<div class="w3-half" style="height:400px; width: 430px;padding: 10px; float: left;">
+            <div class="w3-bar" style="color:#B48C15;">
+                <h2>Input(s) to the model</h2>
+            </div>
+            <div class="w3-bar" style="border: 1px solid lightblue ; padding: 10px; border-radius: 10px;  ">
+                <div class="w3-bar" style="min-height: 250px;max-height: 800px; overflow-y: auto;">
+                    <div id="id_mlos_prediction">
+                        <div class="form-group"><label for="age" style="font-size: 18px; color:white;">TRANSFORMATION AND DESCRIPTION:</label></div>
+ 						<br>
+ 						<div><input type="text" style = "background-color: transparent;"value ="Earth Work" id="input_feature_2" class="form-control"  name="sex"></div>
+ 						<br>
+            <div  style="float: left;">
+               <div class="form-group"><label for="sex" style="font-size: 18px; color:white;">START DATE:</label></div>
+               <br>
+            <div><input type="date"  style = "width: 190px;font-size: 15px; color: white; background-color: transparent;" value ="2021-10-23" id="input_feature_2" class="form-control"  name="sex"></div>
+            </div>
+              <div  style="position: absolute;  left: 250px;">
+               <div class="form-group"><label for="sex" style="font-size: 18px; color:white;">END DATE:</label></div>
+               <br>
+            <div><input type="date" style = "width: 190px;font-size: 15px; color: white; background-color: transparent;" value ="2021-10-23" id="input_feature_2" class="form-control"  name="sex"></div>
+            </div>
+    					
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+<div class="w3-half" style="height:400px; width: 430px;padding: 10px; float: right;">
+        <div class="w3-bar" style="color:#B48C15;">
+                <h2>Model Output</h2>
+        </div>
+            <div class="w3-bar" style="border: 1px solid lightblue ; padding: 10px; border-radius: 10px;">
+                <div class="w3-bar" style="min-height: 250px;max-height: 800px; overflow-y: auto;">
+                	<div class="w3-bar" style = "text-align: center;">
+                   		 <button onclick="btn_click_predict(this)" class="btn btn-default w3-left" style="font-size: 18px; margin: 4px 2px; cursor: pointer; width: 100px; color:#B48C15; border-color: #B48C15; background-color: transparent;" >Predict</button>
+                	</div>
+                		<div class="w3-bar" style="padding-top: 30px;padding-right: 100px;">
+                    		<div class="w3-half">
+                        		<span style="font-size: 18px; color:white;">RESPONSE FROM MODEL:</span>
+                    		</div>
+                        		<br>
+                        		<div class="w3-bar " style="border: 1px solid lightblue; border-radius: 10px; padding: 20px; width: 358px;">
+                            		<span id="id_response_1" style="font-size: 16px;font-family: Arial; color:white; ">[]</span>
+                        		</div>
+                    	</div>
+            	</div>
+            </div>
+</div>
+
+     
+</body>
+</html>

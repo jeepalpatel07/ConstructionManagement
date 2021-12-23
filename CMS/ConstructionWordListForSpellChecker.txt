@@ -1,0 +1,1428 @@
+PILING WORK P&C bored cast in-situ pile-600mm /97 T
+PILING WORK P&C bored cast in-situ pile-750mm /158 T
+PILING WORK P&F reinf steel incl tran/strght/cut/Bnd
+PILING WORK Vertical load test/ 600 mm/ 97 T
+PILING WORK Vertical load test/ 600 mm/ 158 T
+PILING WORK Dynamic load test/ 600 mm/ 97 T
+PILING WORK Dynamic load test/ 750 mm/ 158 T
+PILING WORK Pile Integrity test/ 600 mm/ 97 T
+PILING WORK Pile Integrity test/ 750 mm/ 158 T
+PILING WORK Break pile head manually incl remv debrs
+EARTH WORK Mech Excavation upto 1.5M
+EARTH WORK Mech Excavation upto 1.5M-3.0M
+EARTH WORK Mech Excavation upto 3.0M-4.5M
+EARTH WORK Mech Excavation upto 4.5M & above
+EARTH WORK Filling avail excavated earth 20cm layer
+EARTH WORK Sup & Fill river sand/compaction-min 90%
+EARTH WORK Carriage & disposal of surplus earth
+ANTI TERMITE TREATMENT ATT in Fdn wall & vert surf @7.5Lit/M2
+ANTI TERMITE TREATMENT ATT in top surf within plinth @5Lit/M2
+ANTI TERMITE TREATMENT ATT to outside of Fdn@ 1.75L/M & 0.5L/M
+CONCRETE WORK Concrete (1:3:6) upto plinth
+CONCRETE WORK Conc.(1:2:4)-Fdn,Plinth,Sup Str incl F/W
+CONCRETE WORK Conc.(1:4:8)with fly/burn brick incl F/W
+CONCRETE WORK Precast (1:2:4) incl F/W & Reinf
+CONCRETE WORK P&L DPC (1:2:4)-40 mm thick
+CONCRETE WORK E/R-Mix WP material in Concrete work
+CONCRETE WORK Apply Petrlm Bitumen (VG-10) @1.7kg/M2
+CONCRETE WORK Plinth Protection (1:3:6)- 50mm Thick
+REINFORCEMNT CONCRETE WORK RCC (M:45)- Upto Plinth
+REINFORCEMNT CONCRETE WORK RCC (M:45)-Plinth to Floor V
+REINFORCEMNT CONCRETE WORK RCC (M:45)-Floor V to IX
+REINFORCEMNT CONCRETE WORK RCC (M:45)-Floor IX to XIII
+REINFORCEMNT CONCRETE WORK RCC (M:45)-Floor XIII to XVII
+REINFORCEMNT CONCRETE WORK RCC (M:45)-Floor XVII to XXI
+REINFORCEMNT CONCRETE WORK RCC (M:45)-above Floor XXI
+REINFORCEMNT CONCRETE WORK RCC (M:35)- Upto Plinth
+REINFORCEMNT CONCRETE WORK RCC (M:35)-Plinth to Floor V
+REINFORCEMNT CONCRETE WORK RCC (M:30)- Upto Plinth
+REINFORCEMNT CONCRETE WORK RCC (M:25)- Upto Plinth
+FORM WORK  Sys F/W-Upto Plinth
+FORM WORK  Sys F/W-Upto Plinth (Vertical)
+FORM WORK  Sys F/W-Above plinth (Horizon)
+POLYTHENE SHEET  S&L Polythene Sheet (150gm/Sqm) over DPC
+REINFORCEMENT STEEL WORK Reinforcement work (Fe 500D)
+DOOR WORK Install Strong room door incl lift,Erec
+REINFORCEMENT STEEL WORK H,C,Lift & Placing MS Tang Bar b/w Reinf
+POST TENTIONING WORK Design & Exec. of Post Tensioning  works
+WATER PROOFING TREATMENT P&L WP membrane (APP 5 layer)- 3mm thk
+WATER PROOFING TREATMENT P&A spray applied WP membrane-2mm Thk
+WATER PROOFING TREATMENT E/R-Cover top membrane with Geotextile
+WATER PROOFING TREATMENT S&L Screed Conc. (M:15)- 50mm Thk
+WATER PROOFING TREATMENT P&L Garden Drain Board & Geotextile
+WATER PROOFING TREATMENT P&L WP treatment-sunken part of WC,Bath
+WATER PROOFING TREATMENT P&M integral crystalline admix. for WP
+WATER PROOFING TREATMENT P&A fibre reinf elastomeric liquid WP
+WATER PROOFING TREATMENT WP Treatment by inject grout material
+WATER PROOFING TREATMENT Roof WP Treatment with Conc.(1:2:4)
+WATER PROOFING TREATMENT P&F Heat Resistant Terrace Tile(300x300)
+BRICK WORK B/W (Morter- 1:6) in Fdn & Plinth
+BRICK WORK B/W (Morter- 1:6) Plinth to Floor V
+BRICK WORK B/W (Morter- 1:6) above Floor V to IX
+BRICK WORK B/W (Morter- 1:6) above Floor IX to XIII
+BRICK WORK B/W (Morter- 1:6) abv Floor XIII to XVII
+BRICK WORK B/W (Morter- 1:6) abv Floor XVII to XXI
+BRICK WORK B/W (Morter- 1:6) above Floor XXI
+BRICK WORK Half B/W (1:4) Plinth to Floor V
+BRICK WORK Half B/W (1:4) above Floor V to IX
+BRICK WORK Half B/W (1:4) above Floor IX to XIII
+BRICK WORK Half B/W (1:4) abv Floor XIII to XVII
+BRICK WORK Half B/W (1:4) abv Floor XVII to XXI
+BRICK WORK Half B/W (1:4) above Floor XXI
+BRICK WORK P&L AAC Block  Plinth to Floor V
+BRICK WORK P&L AAC Block  above Floor V to IX
+BRICK WORK P&L AAC Block  above Floor IX to XIII
+BRICK WORK P&L AAC Block  above Floor XIII to XVII
+BRICK WORK P&L AAC Block  above Floor XVII to XXI
+BRICK WORK P&L AAC Block  above Floor XXI
+BRICK WORK String course with 15mm Plaster (1:4)
+BRICK WORK Single Brick soling of jhama bricks
+FLOORING WORK Conc. Floor (1:2:4)- 40mm Thk
+FLOORING WORK Conc. Floor with Hardener (1:2:4)-52mm
+FLOORING WORK Cement Plaster Skirting (1:3)-18 mm Thk
+FLOORING WORK Kota flooring (1:4) in slab- 25 mm Thk
+FLOORING WORK Kota Skirt,Dado,Stair (1:3)- 20 mm Thk
+FLOORING WORK E/R for Nosing in Kota stone tread
+FLOORING WORK P&L Pol Granite flooring (1:4)-20 mm Thk
+FLOORING WORK Edge moulding in Granite work
+FLOORING WORK E/R-Serrated granite/kota floor (1:4)
+FLOORING WORK P&L Granite flooring (1:4)-18 mm Thk
+FLOORING WORK P&L Anti skid exter grade Vitrified Tile
+FLOORING WORK P&L Tactile tile 300x300x9.8mm (1:4)
+FLOORING WORK P&L Polyurethene car deck Floor Top Coat
+PLASTERING WORK 15 mm Int. Plaster (1:6) above plinth
+PLASTERING WORK 20 mm Ext. Plaster (1:4) upto plinth
+PLASTERING WORK 20 mm Ext. Plaster (1:4) in Supr Str.
+PLASTERING WORK 10 mm Ceiling Plaster (1:3) in Supr Str.
+PLASTERING WORK 15 mm Ext Plaster (1:4) upto plinth
+PLASTERING WORK 15 mm Ext Plaster (1:4) plinth-Floor V
+PLASTERING WORK 15 mm Ext Plaster (1:4) Floor V-IX
+PLASTERING WORK 15 mm Ext Plaster (1:4) Floor IX-XIII
+PLASTERING WORK 15 mm Ext Plaster (1:4) Floor XIII-XVII
+PLASTERING WORK 15 mm Ext Plaster (1:4) Floor XVII-XXI
+PLASTERING WORK 15 mm Ext Plaster (1:4) above floor XXI
+PLASTERING WORK E/R- P&M WP material in plaster
+PLASTERING WORK E/R-Synthetic Polyester fibre in plaster
+PLASTERING WORK Cement Punning 1.5mm-Wall,Dado,Floor
+PLASTERING WORK S&A 3 coat food grade (Sika Guard 67)
+FIRE RESISTANT DOOR WORK P&F Fire Resistant door frame (H & V)
+FIRE RESISTANT DOOR WORK P&F Glazed fire resistant door Shutter
+FIRE RESISTANT DOOR WORK P&F Glazing in Fire resist door shutter
+STRUCTURAL STEEL WORK Sup,Fab & Erec of Structural Steel
+STRUCTURAL STEEL WORK P&F Pressed Steel Door frame
+STRUCTURAL STEEL WORK P&F Safety foot rest (6mm)Plastic coated
+STRUCTURAL STEEL WORK S&F Rolling shutter
+STRUCTURAL STEEL WORK E/R- Provide Grilled Rolling Shutter
+STRUCTURAL STEEL WORK E/R-Provide mech. device(10-16.8 M2)
+STRUCTURAL STEEL WORK P&F SS Railing
+STRUCTURAL STEEL WORK P&F Precoated galvanised iron sheets
+STRUCTURAL STEEL WORK S&F polycarbonate panel (UV Protected)
+PRIMER WORK P&A primer with pink/grey on wood work
+PRIMER WORK P&A primer with red oxide on steel/Iron
+PRIMER WORK P&A cement thinnable primer on wall
+PRIMER WORK P&A synthetic enamel paint (2 Coats)
+PRIMER WORK P&A Premium Acrylic exterior paint
+PRIMER WORK P&A water proofing cement paint
+MISCELLANEOUS WORK Dismantling B/W with Plaster for Opening
+MISCELLANEOUS WORK Dismant RCC/PCC incl stack,cut,cln Reinf
+MISCELLANEOUS WORK Chase cutting & Making in RCC surface
+MISCELLANEOUS WORK Chase cutting & Making in Brick surface
+MISCELLANEOUS WORK Repairing Patch in Plaster with Mort 1:4
+MISCELLANEOUS WORK Make Opening for Exhaust in B/W Mort 1:4
+MISCELLANEOUS WORK S&F Chem anchor fastener (L200mm,D16 mm)
+MISCELLANEOUS WORK S&F Chem anchor fastener (L260mm,D20 mm)
+MISCELLANEOUS WORK S&F Chem anchor fastener (L300mm,D24 mm)
+MISCELLANEOUS WORK S&F Mech Exp anch. fast (L115mm,D12 mm)
+MISCELLANEOUS WORK S&F Mech Exp anch. fast (L145mm,D16 mm)
+MISCELLANEOUS WORK S&F Mech Exp anch. fast (L170mm,D20 mm)
+MISCELLANEOUS WORK P&F Rebar- Dia 8mm, Embed Length-160mm
+MISCELLANEOUS WORK P&F Rebar- Dia 10mm, Embed Length-200mm
+MISCELLANEOUS WORK P&F Rebar- Dia 12mm, Embed Length-240mm
+MISCELLANEOUS WORK P&F Rebar- Dia 16mm, Embed Length-320mm
+MISCELLANEOUS WORK P&F Rebar- Dia 20mm, Embed Length-400mm
+MISCELLANEOUS WORK P&F Rebar- Dia 25mm, Embed Length-500mm
+MISCELLANEOUS WORK P&F Anchor Fastener for door fix
+MISCELLANEOUS WORK P&F Expansion joint (75x25mm)
+MISCELLANEOUS WORK P&F Alum Plain/Chaq plate cover-Exp. Jnt
+MISCELLANEOUS WORK S&I Fire Barriers Composite Sheet
+MISCELLANEOUS WORK S&I Fire Barriers Composite Sheet
+MISCELLANEOUS WORK S&I Fire stop mortar system
+EXTERNAL DEVELOPMENT WORK Mech Excavation upto 1.5M
+EXTERNAL DEVELOPMENT WORK Mech Excavation upto 1.5M-3.0M
+EXTERNAL DEVELOPMENT WORK Mech Excavation upto 3.0M-4.5M
+EXTERNAL DEVELOPMENT WORK Mech Excavation upto 4.5M & above
+EXTERNAL DEVELOPMENT WORK Filling avail excavated earth 20cm layer
+EXTERNAL DEVELOPMENT WORK Sup & Fill river sand/compaction-min 90%
+EXTERNAL DEVELOPMENT WORK P&I Hard sal bullah drivng pile D-150mm
+EXTERNAL DEVELOPMENT WORK B/W (Morter- 1:6) in Fdn & Plinth
+EXTERNAL DEVELOPMENT WORK B/W (Morter- 1:6) Plinth to Floor V
+EXTERNAL DEVELOPMENT WORK Half B/W (1:4) Plinth to Floor V
+EXTERNAL DEVELOPMENT WORK Single Brick soling of jhama bricks
+EXTERNAL DEVELOPMENT WORK 15 mm Int. Plaster (1:6) above plinth
+EXTERNAL DEVELOPMENT WORK 20 mm Ext. Plaster (1:4) upto plinth
+EXTERNAL DEVELOPMENT WORK 10 mm Ceiling Plaster (1:3) in Supr Str.
+EXTERNAL DEVELOPMENT WORK 15 mm Ext Plaster (1:4) upto plinth
+EXTERNAL DEVELOPMENT WORK 15 mm Ext Plaster (1:4) plinth-Floor V
+EXTERNAL DEVELOPMENT WORK Cement Punning 1.5mm-Wall,Dado,Floor
+EXTERNAL DEVELOPMENT WORK Concrete (1:3:6) upto plinth
+EXTERNAL DEVELOPMENT WORK RCC (M:30)- Upto Plinth
+EXTERNAL DEVELOPMENT WORK RCC (M:30)-Plinth to Floor V
+EXTERNAL DEVELOPMENT WORK F/W (Steel Plate)- Upto Plinth
+EXTERNAL DEVELOPMENT WORK F/W (Steel Plate)-Upto Plinth (vertical)
+EXTERNAL DEVELOPMENT WORK F/W (Steel Plate)-above Plinth (Horizon)
+EXTERNAL DEVELOPMENT WORK P&F reinf steel incl tran/strght/cut/Bnd
+EXTERNAL DEVELOPMENT WORK S&L Polythene Sheet (150gm/Sqm) over DPC
+EXTERNAL DEVELOPMENT WORK Subgrade Preparation (300mm Depth)
+EXTERNAL DEVELOPMENT WORK Rolling Subgrade by Roller (8-12T)
+EXTERNAL DEVELOPMENT WORK Sprd&Scrn Road metal-brick bat (63-90mm)
+EXTERNAL DEVELOPMENT WORK P&F 25mm thk thermocol sheet in Exp Jnt
+EXTERNAL DEVELOPMENT WORK P&L bitumen sealing compound in Exp Jnt
+EXTERNAL DEVELOPMENT WORK P&L Conc. (M40) Grass paver block
+EXTERNAL DEVELOPMENT WORK P&L Conc. (M30) interlocking paver block
+EXTERNAL DEVELOPMENT WORK P&L Kerb Channel 50mm Thk (Mort: 1:3:6)
+EXTERNAL DEVELOPMENT WORK P&L Kerb Stone (M:25) with Mort: 1:3
+EXTERNAL DEVELOPMENT WORK P&A synthetic enamel paint
+EXTERNAL DEVELOPMENT WORK P&L Pol Granite flooring (1:4)-18 mm Thk
+EXTERNAL DEVELOPMENT WORK P&L Flame finish Granite flooring (1:4)
+EXTERNAL DEVELOPMENT WORK P&L Kota flooring (1:4)-25 mm Thk
+EXTERNAL DEVELOPMENT WORK P&L Kota Skirt,Dado,Stair(1:3)-20 mm Thk
+EXTERNAL DEVELOPMENT WORK P&L Anti skid exter grade Vitrified Tile
+EXTERNAL DEVELOPMENT WORK P&L Glass mosaic tiles on wall (1:4)
+EXTERNAL DEVELOPMENT WORK Conc. Floor (1:2:4)- 40mm Thk
+EXTERNAL DEVELOPMENT WORK P&L Turf paver on 150 mm thick sub grade
+EXTERNAL DEVELOPMENT WORK P&A water proofing cement paint
+EXTERNAL DEVELOPMENT WORK P&A primer with red oxide on steel/Iron
+EXTERNAL DEVELOPMENT WORK P&A Premium Acrylic exterior paint
+EXTERNAL DEVELOPMENT WORK P&A synthetic enamel paint (2 Coats)
+EXTERNAL DEVELOPMENT WORK Making V-groove in plastered surface
+EXTERNAL DEVELOPMENT WORK Sup,Fab & Erec of Structural Steel
+EXTERNAL DEVELOPMENT WORK P&L Precast RCC (M:30) Rect. Covers
+EXTERNAL DEVELOPMENT WORK SITC aerating column jet fountain
+HORTICULTURE WORK Trenching in Ord. Soil upto depth 30cm
+HORTICULTURE WORK Supp & Stack Good earth
+HORTICULTURE WORK Supp & Stack sludge
+HORTICULTURE WORK Supp & Stack dump manure-sieve 20mm
+HORTICULTURE WORK Supp & Stack dump manure-sieve 16mm
+HORTICULTURE WORK Supp & Stack dump manure-sieve 4.7mm
+HORTICULTURE WORK Rough dressing the trenched ground
+HORTICULTURE WORK Uprooting weeds from trenched area
+HORTICULTURE WORK Spreading of sludge,manure,good earth
+HORTICULTURE WORK P&F MS Flat tree guard with Name plate
+HORTICULTURE WORK Edging with brick incl Excv,refil,Consld
+HORTICULTURE WORK Supp & Stack decayed cow dung manure
+HORTICULTURE WORK P&F Circular Conc. Pots (1:2:4)- 35/25mm
+HORTICULTURE WORK P&F Circular Conc. Pots (1:2:4)- 30/20mm
+HORTICULTURE WORK P&L water filtration Pebble-Pure white
+HORTICULTURE WORK P&L water filtration Pebble-Pure black
+HORTICULTURE WORK P&L water filtration Pebble-Naturl Brown
+HORTICULTURE WORK S&P Achras Sapota (Chiku Tree)
+HORTICULTURE WORK S&P Achras Sapota (Chiku Tree)
+HORTICULTURE WORK S&P Alstonia scholaris(Saptoprni/ Chatim
+HORTICULTURE WORK S&P Azadirachta Indica (Neem)
+HORTICULTURE WORK S&P Red Bottle Brush
+HORTICULTURE WORK S&P Cassia fistula (Indian Laburnum)
+HORTICULTURE WORK S&P Cassia Javanica (Apple Blossom)
+HORTICULTURE WORK S&P Cordia sebestena ( Raktarag)
+HORTICULTURE WORK S&P Coroupita Guinensis (Canon Ball)
+HORTICULTURE WORK S&P Cycas Revoluta ( Sago Palm)@1500 c/c
+HORTICULTURE WORK S&P Caesalpinia Pulcherrima
+HORTICULTURE WORK S&P Delonix Regia ( Gulmohor)
+HORTICULTURE WORK S&P Eugenia Jambolana (Jamun/Java Palm)
+HORTICULTURE WORK S&P Ficus Benjamina(Pernnial Buck wheat)
+HORTICULTURE WORK S&P Ficus Ingens (Red Ficus) @1500 c/c
+HORTICULTURE WORK S&P Ficus Microcarpa Chinese Banyan
+HORTICULTURE WORK S&P Ficus Variegata ( Fig ) @1500 c/c
+HORTICULTURE WORK S&P Filifera aurea ( Golden Cypruss)
+HORTICULTURE WORK S&P Grevillea Robusta ( Silver Oak)
+HORTICULTURE WORK S&P Javanica Mimosifolia
+HORTICULTURE WORK S&P Lagerstroemia Flos-reginae ( Jarul)
+HORTICULTURE WORK S&P Lagerstroemia Indica
+HORTICULTURE WORK S&P Mangifera Indica ( Mango)
+HORTICULTURE WORK S&P Golden Bottle Brush
+HORTICULTURE WORK S&P Michelia Champaca ( Golden Champa)
+HORTICULTURE WORK S&P Mimusops elengi Spanish Cherry
+HORTICULTURE WORK S&P Night Flowering Jesmine
+HORTICULTURE WORK S&P Nerium Oleander
+HORTICULTURE WORK S&P Odallum Rubra ( Champa) @2500 c/c
+HORTICULTURE WORK S&P Peltophorum feruginium(Yellow Flame)
+HORTICULTURE WORK S&P Plumeria acutifolia (Red Frangipani)
+HORTICULTURE WORK S&P Plumeria Alba ( Gulancha) @3000 c/c
+HORTICULTURE WORK S&P Plumeria Rubra( Ftrangipani)
+HORTICULTURE WORK S&P Podocarpus macrophyllus(Yellow Pine)
+HORTICULTURE WORK S&P Polyalthia longifolia (Mast Tree)
+HORTICULTURE WORK S&P Poltoforum Pterocarpum
+HORTICULTURE WORK S&P Plumbago Capensiss
+HORTICULTURE WORK S&P Saraca Indica ( Ashoka)
+HORTICULTURE WORK S&P Spathodea Companulata ( Tulip)
+HORTICULTURE WORK S&P Spiral Buxus
+HORTICULTURE WORK S&P Tabebuia Argentea ( Silver Trumpet)
+HORTICULTURE WORK S&P Tabebuia Rosea ( Pink Trumpet)
+HORTICULTURE WORK S&P Tecoma Gaudichaudi
+HORTICULTURE WORK S&P Terminalia Variegata ( Tagor)
+HORTICULTURE WORK S&P Areca Palm
+HORTICULTURE WORK S&P Cyrtostachys Renda
+HORTICULTURE WORK S&P Date Palm
+HORTICULTURE WORK S&P Golden Cane Palm
+HORTICULTURE WORK S&P Livistona Decipiens
+HORTICULTURE WORK S&P Livistona Rotundifolia
+HORTICULTURE WORK S&P Phoenix Palm
+HORTICULTURE WORK S&P Rhapis Excalsa
+HORTICULTURE WORK S&P Royal Palm
+HORTICULTURE WORK S&P Triangular Palm
+HORTICULTURE WORK S&P Veitchia Merrilli
+HORTICULTURE WORK S&P Wodyetia Bifurcata (Foxtail palm)
+HORTICULTURE WORK S&P Acalypha wilkesiana compacta dwarf
+HORTICULTURE WORK S&P Alpinia purpurea
+HORTICULTURE WORK S&P Alpinia Z. Variegated Dwarf
+HORTICULTURE WORK S&P Alternanthera bettzickiana
+HORTICULTURE WORK S&P Anthurium spp.
+HORTICULTURE WORK S&P Asparagus
+HORTICULTURE WORK S&P Bambusa ventricosa
+HORTICULTURE WORK S&P Bambusa Vulgaris
+HORTICULTURE WORK S&P Canna Spp. Dwarf
+HORTICULTURE WORK S&P Chrysopogon zizanioides (vetiver)
+HORTICULTURE WORK S&P Cordyline Mahatma Red
+HORTICULTURE WORK S&P Cortaderia Selloana
+HORTICULTURE WORK S&P Cymbopogon Citratus
+HORTICULTURE WORK S&P Cyperus Alternifolius Gracilis
+HORTICULTURE WORK S&P Clerodendrum Inerme (Forest Jasmico)
+HORTICULTURE WORK S&P Duranta goldeana
+HORTICULTURE WORK S&P Euphorbia cotinifolia
+HORTICULTURE WORK S&P Ficus Panda
+HORTICULTURE WORK S&P Furcraea Gigantica
+HORTICULTURE WORK S&P Green Lily
+HORTICULTURE WORK S&P Gaillardia Pukhella
+HORTICULTURE WORK S&P Geranium Psilostemon
+HORTICULTURE WORK S&P Hamelia Patens Dwarf
+HORTICULTURE WORK S&P Heliconia psittacarum
+HORTICULTURE WORK S&P Hydrangia Macrophylla
+HORTICULTURE WORK S&P Heliconia rostrata
+HORTICULTURE WORK S&P Hemerocallis SPP
+HORTICULTURE WORK S&P Hymenocallys littoralis
+HORTICULTURE WORK S&P Impatiens SPP.
+HORTICULTURE WORK S&P Lantana Sellowiana
+HORTICULTURE WORK S&P Lemonia S variagata
+HORTICULTURE WORK S&P Lantnna Camara (Pink)
+HORTICULTURE WORK S&P Musa Ornata
+HORTICULTURE WORK S&P Nerium Dwarf Variegata (Petite Pink)
+HORTICULTURE WORK S&P Ophiopogon J.variegata
+HORTICULTURE WORK S&P Osmoxylon lineare
+HORTICULTURE WORK S&P Philodendron Xanadu
+HORTICULTURE WORK S&P Phyllostachys nigra
+HORTICULTURE WORK S&P Pleioblastus Variegata
+HORTICULTURE WORK S&P Plumbago Capiensis
+HORTICULTURE WORK S&P Plumeria Pudica
+HORTICULTURE WORK S&P Pleatranthus Scutellarioides
+HORTICULTURE WORK S&P Pandanus Sanderi
+HORTICULTURE WORK S&P Antigonon leptopus
+HORTICULTURE WORK S&P Beaumontia grandiflora
+HORTICULTURE WORK S&P Bignonia Venusta
+HORTICULTURE WORK S&P Bougainvillea sp.
+HORTICULTURE WORK S&P Jacquimontia Violacea
+HORTICULTURE WORK S&P Passiflora Caerulea
+HORTICULTURE WORK S&P Thunbergia grandiflora
+HORTICULTURE WORK S&P Blade grass
+HORTICULTURE WORK S&P Calcutta doob - selection 1
+HORTICULTURE WORK S&P Korean grass
+HORTICULTURE WORK Maint-tree,shrub,crepr,lawn,perenal,palm
+HORTICULTURE WORK lift earth,manure-roof garden (upto 9FL)
+LANDSCAPING IRRIGATION WORK P&F HDPE pipe incl. fittings-110mm
+LANDSCAPING IRRIGATION WORK P&F HDPE pipe incl. fittings-90mm
+LANDSCAPING IRRIGATION WORK P&F HDPE pipe incl. fittings-75mm
+LANDSCAPING IRRIGATION WORK P&F HDPE pipe incl. fittings-63mm
+LANDSCAPING IRRIGATION WORK P&F HDPE pipe incl. fittings-50mm
+LANDSCAPING IRRIGATION WORK P&F LLDPE pipe-16mm incl pressre dripper
+LANDSCAPING IRRIGATION WORK P&F LLDPE pipe-16mm (Poly tube)
+LANDSCAPING IRRIGATION WORK S&F plastic mini valve for Dripline-16mm
+LANDSCAPING IRRIGATION WORK S&F Pop-Up type rotos (Rad-12.3M)
+LANDSCAPING IRRIGATION WORK S&F Pop-Up type sprayers (Rad-5.5M)
+LANDSCAPING IRRIGATION WORK S&F Pop-Up type Sprauyers (Rad-3.7M)
+LANDSCAPING IRRIGATION WORK S&F serice saddles-20mmx63mm
+LANDSCAPING IRRIGATION WORK S&F serice saddles-15mmx75mm
+LANDSCAPING IRRIGATION WORK S&F serice saddles-15mmx63mm
+LANDSCAPING IRRIGATION WORK S&F serice saddles-15mmx63mm
+LANDSCAPING IRRIGATION WORK S&F CI Flazed -100 mm dia gate Valve
+LANDSCAPING IRRIGATION WORK S&F CI Flazed -100 mm  dia foot valve
+LANDSCAPING IRRIGATION WORK S&F CI Flazed-D 100 mm  Non return valve
+LANDSCAPING IRRIGATION WORK S&F CI Flazed -D 100 mm Butter fly valve
+LANDSCAPING IRRIGATION WORK S&F CI Flazed -50 mm dia butter fly vale
+LANDSCAPING IRRIGATION WORK S&F Air/Vaccum release valve 50 mm
+LANDSCAPING IRRIGATION WORK S&F Autm. pressr releasing Hydrlic valve
+LANDSCAPING IRRIGATION WORK S&F Rugged reinf heavy duty PVC valve
+LANDSCAPING IRRIGATION WORK SITC single tank unit sand/media filter
+LANDSCAPING IRRIGATION WORK SITC Disc of capacity 50 cum/ Hours
+LANDSCAPING IRRIGATION WORK SITC control panel/ Starter
+FAÇADE WORK Facade work-SDPC coating
+FAÇADE WORK Facade work-Glass 30mm DGU
+FAÇADE WORK Facade work-8 mm Spandrel Glass
+FAÇADE WORK Facade work-Spandrel Insulation
+FAÇADE WORK Facade work-Rock wool Insulation
+FAÇADE WORK Facade work-shutter Windows sys 1.8x1.2M
+FAÇADE WORK Facade work-Vertical aluminium fins
+FAÇADE WORK Facade work-SDPC coating
+FAÇADE WORK Facade work-Glass 30mm DGU
+FAÇADE WORK Facade work-8 mm Spandrel Glass
+FAÇADE WORK Facade work-Spandrel Insulation
+FAÇADE WORK Facade work-SITDC of M.S. work
+FAÇADE WORK Facade work-SDPC coating
+FAÇADE WORK Facade work-Glass 30mm DGU
+FAÇADE WORK Facade work-8 mm Spandrel Glass
+FAÇADE WORK Facade work-Spandrel Insulation
+FAÇADE WORK Facade work-Rock wool Insulation
+FAÇADE WORK Facade work-shutter Windows sys 1.8x1.2M
+FAÇADE WORK Facade work-shutter Windows sys 2.4x1.2M
+FAÇADE WORK Facade work-SDPC coating
+FAÇADE WORK Facade work-Glass 30mm DGU
+FAÇADE WORK Facade work-8 mm Spandrel Glass
+FAÇADE WORK Facade work-Spandrel Insulation
+FAÇADE WORK Facade work-Rock wool Insulation
+FAÇADE WORK Facade work-shutter Windows sys 1.8x1.2M
+FAÇADE WORK Facade work-SDPC coating
+FAÇADE WORK Facade work-Glass 30mm DGU
+FAÇADE WORK Facade work-8 mm Spandrel Glass
+FAÇADE WORK Facade work-Spandrel Insulation
+FAÇADE WORK Facade work-Rock wool Insulation
+FAÇADE WORK Facade work-shutter Windows sys 1.8x1.2M
+FAÇADE WORK Facade work-SDPC coating
+FAÇADE WORK Facade work-Glass 30mm DGU
+FAÇADE WORK Facade work-shutter Windows sys 1.8x1.2M
+FAÇADE WORK Facade work-shutter Windows sys 2.4x1.2M
+FAÇADE WORK Facade work-SDPC coating
+FAÇADE WORK Facade work-Glass 32mm DGU
+FAÇADE WORK Facade work-8 mm Spandrel Glass
+FAÇADE WORK Facade work-Spandrel Insulation
+FAÇADE WORK Facade work-Rock wool Insulation
+FAÇADE WORK Facade work-shutter Windows sys 2.4x1.2M
+FAÇADE WORK Facade work-Standing railing
+FAÇADE WORK Facade work-System rate Wall cladding
+FAÇADE WORK Facade work-Beam / Box cladding
+FAÇADE WORK Facade work-Beam / Box cladding
+FAÇADE WORK Facade work-Shaft Cladding
+FAÇADE WORK Facade work-Aluminium sheet PVDF
+FAÇADE WORK Facade work-System rate Wall cladding
+FAÇADE WORK Facade work-Aluminium sheet PVDF
+FAÇADE WORK Facade work-Aluminium perforated sheet
+FAÇADE WORK Facade work-Glass Façade
+FAÇADE WORK Facade work-Glass Façade
+FAÇADE WORK Facade work-Automatic Sliding Door
+FAÇADE WORK Facade work-Patch Door
+FAÇADE WORK Facade work-3mm thick SS 316 sheet
+FAÇADE WORK Facade work-custom designed M.S. work
+FAÇADE WORK Facade work-3mm thick SS 316 sheet
+FAÇADE WORK Facade work-custom designed M.S. work
+FAÇADE WORK Facade work-stone cladding at skirting
+FAÇADE WORK Facade work-custom designed M.S. work
+FAÇADE WORK Facade work-Signage with  back light
+FAÇADE WORK Facade work-custom designed M.S. work
+FAÇADE WORK Facade work-Fixed alumiium louvers
+FAÇADE WORK Facade work-BMU system (Tower)
+FAÇADE WORK Facade work-BMU system (Hostel Block)
+FAÇADE WORK Facade work-LED strip light (Tower)
+FAÇADE WORK Facade work-LED strip light(Wall washer)
+SANITARY WORK (PHE) ITC of Wall EWC
+SANITARY WORK (PHE) ITC Wash Basin Oval
+SANITARY WORK (PHE) ITC Wash Basin Rectangular
+SANITARY WORK (PHE) ITC of Flat Back Urinal
+SANITARY WORK (PHE) ITC of Single Bowl Sink With Drain Board
+SANITARY WORK (PHE) ITC of CP 3 In One Wall Mixture
+SANITARY WORK (PHE) ITC of Vertical Water Cooler
+SANITARY WORK (PHE) ITC of Janitor Sink With Bibcock
+SANITARY WORK (PHE) ITC of Conceal Flush Valve
+SANITARY WORK (PHE) ITC of Automatic Flushing For Urinal
+SANITARY WORK (PHE) ITC of EWC Pillartap & Wash Basin
+SANITARY WORK (PHE) ITC of Urinal Partition
+SANITARY WORK (PHE) ITC of IWC  With PVC Cistern
+SANITARY WORK (PHE) ITC PVC WC Connector
+SANITARY WORK (PHE) ITC of Bevel Edge Mirror 5.5Mm Thick
+SANITARY WORK (PHE) ITC of CP Angle Valve
+SANITARY WORK (PHE) ITC of 32Mm CP Bottle Trap With All Accs
+SANITARY WORK (PHE) ITC of 40Mm CP Bottle Trap With All Accs
+SANITARY WORK (PHE) ITC of 32Mm Dia CP Brass Waste Coupling
+SANITARY WORK (PHE) ITC of 40Mm Dia CP Brass Waste Coupling
+SANITARY WORK (PHE) ITC of 600Mm Long Braided Flexible Pipe
+SANITARY WORK (PHE) ITC of Pillar Tap For Wash Basin
+SANITARY WORK (PHE) ITC of Pillar Tap For Sink
+SANITARY WORK (PHE) ITC of CP Brass Health Faucet
+SANITARY WORK (PHE) ITC of Toilet Paper Holder
+SANITARY WORK (PHE) ITC of Soap Dispencer
+SANITARY WORK (PHE) ITC of CP Brass Coat Hook
+SANITARY WORK (PHE) ITC of CP Towel Rack
+SANITARY WORK (PHE) ITC of Tissue Paper Holder
+SANITARY WORK (PHE) ITC  of CP Towel Ring
+SANITARY WORK (PHE) ITC of Hand Drier
+SANITARY WORK (PHE) ITC of CP Long Body Bibcock
+SOIL,WASTE, VENT PIPE (PHE) SITC of RW CI Pipe 100Mm Dia Is 3989
+SOIL,WASTE, VENT PIPE (PHE) SITC of RW CI Pipe 150Mm Dia Is 3989
+SOIL,WASTE, VENT PIPE (PHE) SITC of RW CI Pipe 200Mm Dia Is 3989
+SOIL,WASTE, VENT PIPE (PHE) SITC of Soil CI Pipe 75Mm Dia Is 3989
+SOIL,WASTE, VENT PIPE (PHE) SITC of Soil CI Pipe 100Mm Dia Is 3989
+SOIL,WASTE, VENT PIPE (PHE) SITC of Soil CI Pipe 150Mm Dia Is 3989
+SOIL,WASTE, VENT PIPE (PHE) SITC of 32Mm Dia GI Pipe Is 1239
+SOIL,WASTE, VENT PIPE (PHE) SITC of 40Mm Dia GI Pipe Is 1239
+SOIL,WASTE, VENT PIPE (PHE) SITC of 50Mm Dia GI Pipe Is 1239
+SOIL,WASTE, VENT PIPE (PHE) Painting For CI Pipe 75Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) Painting For CI Pipe 100Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) Painting For CI Pipe 150Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) Painting of GI Pipe With Tape 32Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) Painting of GI Pipe With Tape 40Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) Painting of GI Pipe With Tape 50Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) SITC of CI P Or S Trap 100Mm In & Out
+SOIL,WASTE, VENT PIPE (PHE) SITC of GI Fd 100 X 50 Mm Elbow
+SOIL,WASTE, VENT PIPE (PHE) SITC of GI Inlet Fab From 100Mm GI Pipe
+SOIL,WASTE, VENT PIPE (PHE) SITC of Brass Clean Out Plug 100Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) SITC of Ss Ring & Grating 125Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) SITC of Brass Clean Out Plug 100Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) SITC of CI Cowl 75Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) SITC of CI Cowl 100Mm Dia
+SOIL,WASTE, VENT PIPE (PHE) SITC of CI Grating 125 X 125Mm
+SOIL,WASTE, VENT PIPE (PHE) SITC of CI Grating 175 X 175Mm
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cws Fws 15Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cws Fws 20Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cws Fws 25Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cws Fws 32Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cws Fws 40Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cws Fws 50Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cws Fws 65Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cws Fws 80Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cwsfws 100Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Cwsfws 150Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Hws 15Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Hws 20Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Hws 25Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Hws 32Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Hws 40Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Hws 50Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Hws 65Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Hws 80Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Riser 32Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Riser 40Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Riser 50Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Pipe B Class Riser 65Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Cpvc Pipe Cwsfws 15Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of Cpvc Pipe Cwsfws 20Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of Cpvc Pipe Cwsfws 25Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of Cpvc Pipe Cwsfws 32Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of Cpvc Pipe Cwsfws 40Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of Cpvc Pipe Cwsfws 50Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of Cpvc Pipe Cwsfws 65Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of 6Mm Nitrile Ins On 15Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of 6Mm Nitrile Ins On 20Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of 6Mm Nitrile Ins On 25Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of 6Mm Nitrile Ins On 32Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of 6Mm Nitrile Ins On 40Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of 6Mm Nitrile Ins On 50Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of 6Mm Nitrile Ins On 65Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of 6Mm Nitrile Ins On 80Mm Dia Pipe
+WATER SUPPLY SYSTEM (PHE) SITC of GI Cladding Over Insl 15Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Cladding Over Insl 20Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Cladding Over Insl 25Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Cladding Over Insl 32Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Cladding Over Insl 40Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Cladding Over Insl 50Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Cladding Over Insl 65Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of GI Cladding Over Insl 80Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Gm Ball Valve 15Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Gm Ball Valve 20Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Gm Ball Valve 25Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Gm Ball Valve 32Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Gm Ball Valve 40Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Of CI Butterfly Valve 50Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Of CI Butterfly Valve 65Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Of CI Butterfly Valve 80Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Of CI Butterfly Valve 100Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Of CI Butterfly Valve 150Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Ss Body Solenoid Valve 65Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Ss Body Solenoid Valve 50Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Ss Body Solenoid Valve 40Mm Dia
+WATER SUPPLY SYSTEM (PHE) SITC of Pressure Reducing Station 20Mm
+WATER SUPPLY SYSTEM (PHE) SITC of Pressure Reducing Station 25Mm
+WATER SUPPLY SYSTEM (PHE) SITC of Pressure Reducing Station 32Mm
+WATER SUPPLY SYSTEM (PHE) SITC of Pressure Reducing Station 40Mm
+WATER SUPPLY SYSTEM (PHE) SITC of Pressure Reducing Station 50Mm
+WATER SUPPLY SYSTEM (PHE) SITC of Pressure Reducing Station 65Mm
+WATER SUPPLY SYSTEM (PHE) SITC of Pressure Reducing Station 80Mm
+WATER SUPPLY SYSTEM (PHE) SITC of Pressure Reducing Station 100Mm
+WATER SUPPLY SYSTEM (PHE) SITC of Disinfection For Line & Oht
+EXTERNAL SERVICES (PHE) SITC of Stoneware Pipe 150Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Stoneware Pipe 200Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Rcc Pipe Np3 150Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Rcc Pipe Np3 250Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Rcc Pipe Np3 300Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Rcc Pipe Np3 450Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Rcc Pipe Np3 600Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Concrete Bed 15Cm For 150Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Concrete Bed 15Cm For 200Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Concrete Bed 15Cm For 250Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Concrete Bed 15Cm For 300Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Concrete Bed 15Cm For 450Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Concrete Bed 15Cm For 600Mm Dia
+EXTERNAL SERVICES (PHE) SITC of S.W Gully Trap 150X 100Mm
+EXTERNAL SERVICES (PHE) SITC of Manhole 45X 45Cm Depth 60Cm
+EXTERNAL SERVICES (PHE) SITC of Manhole 60X 60Cm Depth 75Cm
+EXTERNAL SERVICES (PHE) SITC of Manhole 75X 75Cm Depth 100Cm
+EXTERNAL SERVICES (PHE) SITC of Manhole 100X 100Cm Depth 150Cm
+EXTERNAL SERVICES (PHE) SITC of Manhole 120X 120Cm Depth 150Cm
+EXTERNAL SERVICES (PHE) SITC of Manhole 75X 75Cm Depth 100Cm
+EXTERNAL SERVICES (PHE) SITC of Manhole 75X 75Cm Depth 100Cm
+EXTERNAL SERVICES (PHE) SITC of Manhole 75X 75Cm Depth 100Cm
+EXTERNAL SERVICES (PHE) SITC of Manhole 75X 75Cm Depth 100Cm
+EXTERNAL SERVICES (PHE) SITC of Rcpc Grating & Frame 600X 600Mm
+EXTERNAL SERVICES (PHE) SITC of CI Manhole Cover 600Mm Dia
+EXTERNAL SERVICES (PHE) SITC Orange Color Safety Foot Rest
+EXTERNAL SERVICES (PHE) SITC of Water Meter
+EXTERNAL SERVICES (PHE) SITC Tapping From Municipal Line
+EXTERNAL SERVICES (PHE) SITC Underground GI Pipe 50Mm Dia
+EXTERNAL SERVICES (PHE) SITC Underground GI Pipe 65Mm Dia
+EXTERNAL SERVICES (PHE) SITC Underground GI Pipe 80Mm Dia
+EXTERNAL SERVICES (PHE) SITC Underground GI Pipe 100Mm Dia
+EXTERNAL SERVICES (PHE) SITC Underground Upvc Pipe 50Mm Dia
+EXTERNAL SERVICES (PHE) SITC Underground Upvc Pipe 40Mm Dia
+EXTERNAL SERVICES (PHE) SITC Underground Upvc Pipe 32Mm Dia
+EXTERNAL SERVICES (PHE) SITC Underground Upvc Pipe 25Mm Dia
+EXTERNAL SERVICES (PHE) SITC Underground Upvc Pipe 20Mm Dia
+EXTERNAL SERVICES (PHE) SITC of CI Butterfly Valve 50Mm Dia
+EXTERNAL SERVICES (PHE) SITC of CI Butterfly Valve 65Mm Dia
+EXTERNAL SERVICES (PHE) SITC of CI Butterfly Valve 80Mm Dia
+EXTERNAL SERVICES (PHE) SITC of CI Butterfly Valve 100Mm Dia
+EXTERNAL SERVICES (PHE) SITC of 20Mm Dia Garden Hydrant Valve
+EXTERNAL SERVICES (PHE) SITC of Gm Ball Valve 20Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Gm Ball Valve 25Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Gm Ball Valve 32Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Gm Ball Valve 40Mm Dia
+EXTERNAL SERVICES (PHE) SITC of Manhole 30X30X50 Cm Sfrc Cover
+EXTERNAL SERVICES (PHE) SITC of Manhole 60X60X75 Cm Rcc Cover
+PUMP HOUSE (PHE) SITC of Filter Feed Pumps
+PUMP HOUSE (PHE) SITC of Make Up Pumps
+PUMP HOUSE (PHE) SITC of Domestic Pump To Office Block
+PUMP HOUSE (PHE) SITC of Domestic Pump To Hostel Block
+PUMP HOUSE (PHE) SITC of Submersible Drainage Pump
+PUMP HOUSE (PHE) SITC of Terrace Booster Pumps
+PUMP HOUSE (PHE) SITC of Rain Water Transfer Pump
+PUMP HOUSE (PHE) SITC of Turbine Type Flow Meter 50Mm Dia
+PUMP HOUSE (PHE) SITC of Turbine Type Flow Meter 65Mm Dia
+PUMP HOUSE (PHE) SITC of C Class GI Pipe Is1239 150Mm Dia
+PUMP HOUSE (PHE) SITC of C Class GI Pipe Is1239 100Mm Dia
+PUMP HOUSE (PHE) SITC of C Class GI Pipe Is1239 80Mm Dia
+PUMP HOUSE (PHE) SITC of C Class GI Pipe Is1239 65Mm Dia
+PUMP HOUSE (PHE) SITC of C Class GI Pipe Is1239 50Mm Dia
+PUMP HOUSE (PHE) SITC of C Class GI Pipe Is1239 40Mm Dia
+PUMP HOUSE (PHE) SITC of C Class GI Pipe Is1239 25Mm Dia
+PUMP HOUSE (PHE) SITC of Gm Ball Valve Is318  25Mm Dia
+PUMP HOUSE (PHE) SITC of Gm Ball Valve Is318  40Mm Dia
+PUMP HOUSE (PHE) SITC of CI Butterfly Valve Pn2.0 80Mmdia
+PUMP HOUSE (PHE) SITC of CI Butterfly Valve Pn2.0 65Mmdia
+PUMP HOUSE (PHE) SITC of CI Butterfly Valve Pn2.0 50Mmdia
+PUMP HOUSE (PHE) SITC of Nrv Pn2.0 50Mm Dia
+PUMP HOUSE (PHE) SITC of Nrv Pn2.0 65Mm Dia
+PUMP HOUSE (PHE) SITC of CI Y Strainer 150Mm Dia
+PUMP HOUSE (PHE) SITC of Pressure Gauge 150Mm Dia
+PUMP HOUSE (PHE) SITC of Hd CI Manhole Cover For Ugr
+PUMP HOUSE (PHE) SITC of Ld CI Manhole Cover For Ohr
+PUMP HOUSE (PHE) SITC of 100 Mm Dia GI Vent Pipe
+PUMP HOUSE (PHE) SITC of PVC Foot Rest For Ugr & Oht
+PUMP HOUSE (PHE) SITC of 600Mm  Galv Puddle Flange 25Mm
+PUMP HOUSE (PHE) SITC of 600Mm  Galv Puddle Flange 32Mm
+PUMP HOUSE (PHE) SITC of 600Mm  Galv Puddle Flange 40Mm
+PUMP HOUSE (PHE) SITC of 600Mm  Galv Puddle Flange 50Mm
+PUMP HOUSE (PHE) SITC of 600Mm  Galv Puddle Flange 65Mm
+PUMP HOUSE (PHE) SITC of 600Mm  Galv Puddle Flange 80Mm
+PUMP HOUSE (PHE) SITC of 600Mm  Galv Puddle Flange 100Mm
+PUMP HOUSE (PHE) SITC of 600Mm  Galv Puddle Flange 150Mm
+PUMP HOUSE (PHE) SITC of 600Mm  Galv Puddle Flange 200Mm
+WATER TREATMENT PLANT (PHE) SITC of Multi Grated Filter
+WATER TREATMENT PLANT (PHE) SITC of Activated Carbon Filter
+WATER TREATMENT PLANT (PHE) SITC of Hdpe Tank of 500Ltrs
+ELECTRICAL INSTALATION MCC (PHE) SITC of Phe & Wtp Mcc
+HOT WATER SYSTEM (PHE) SITC of Air To Water Scroll Heat Pump
+HOT WATER SYSTEM (PHE) SITC of 2500 Ltrs Ms Hot Water Tank
+HOT WATER SYSTEM (PHE) SITC of Ball Valve 32Mm Dia
+HOT WATER SYSTEM (PHE) SITC of Y Strainer
+HOT WATER SYSTEM (PHE) SITC of Pressure Gauge
+HOT WATER SYSTEM (PHE) SITC of 32Mm Dia Piping With Insl & Clad
+HOT WATER SYSTEM (PHE) SITC of Ball Valve For Drain
+HOT WATER SYSTEM (PHE) SITC of Ball Valve For Ret Line
+HT SYSTEM WORK  Supply of 33Kv Rmu 2 Ic 1 Og
+HT SYSTEM WORK  ITC of 33Kv Rmu
+HT SYSTEM WORK  Supply of 33Kv 1000Mva Ht Panel 1Ic 3Og
+HT SYSTEM WORK  ITC of 33Kv 1000Mva Ht Panel 1Ic 3Og
+HT SYSTEM WORK  Supply of 33Kv Ht Metering Panel
+HT SYSTEM WORK  ITC of 33Kv Ht Metering Panel
+TRANSFORMER  Supply of 1200Kva 3Ph Transformer
+TRANSFORMER  ITC of 1200Kva 3Ph Transformer
+HT ANCILLARY SYSTEM WORK S&L of 3C X 300Sqmm 33Kv Xlpe Cable
+HT ANCILLARY SYSTEM WORK S&M End Termination of 33Kv 300Sqmmcable
+HT ANCILLARY SYSTEM WORK S&L of GI Sleeves 150Mm Dia
+HT ANCILLARY SYSTEM WORK S&L of GI Sleeves 200Mm Dia
+HT ANCILLARY SYSTEM WORK S&L of GI Sleeves 300Mm Dia
+HT ANCILLARY SYSTEM WORK S&L 7C X 2.5Sqmm Cu Ar Control Cable
+HT ANCILLARY SYSTEM WORK End Termination7C X 2.5Sqmm Ctrl Cable
+HT ANCILLARY SYSTEM WORK SITC of Bare 50 X 6Mm Cu Tape
+HT ANCILLARY SYSTEM WORK SITC of Bare 32 X 6Mm Cu Tape
+HT ANCILLARY SYSTEM WORK SITC of Bare 50 X 6Mm Cu Tape
+HT ANCILLARY SYSTEM WORK SITC of 600 X600X 3.15 Mm Cu Plate Earth
+HT ANCILLARY SYSTEM WORK SITC of 600 X600X 6.3 Mm GI Plate Earth
+HT ANCILLARY SYSTEM WORK SITC GI Pipe Road Crossing 150Mm Dia
+HT ANCILLARY SYSTEM WORK SITC GI Pipe Road Crossing 50Mm Dia
+HT ANCILLARY SYSTEM WORK SITC GI Pipe Road Crossing 100Mm Dia
+HT ANCILLARY SYSTEM WORK S&F of Shock Treatment Chart
+HT ANCILLARY SYSTEM WORK S&F of Fire Buckets
+HT ANCILLARY SYSTEM WORK S&F of Danger Boards
+HT ANCILLARY SYSTEM WORK S&F of 1.8M X .9M Rubber Mats
+HT ANCILLARY SYSTEM WORK S&F of Co2 Fire Extg 5 Ltrs
+HT ANCILLARY SYSTEM WORK S&F of Sld Framed In 1000X800Mm Frame
+HT ANCILLARY SYSTEM WORK Supply of Tool Kit With 33Kv Gloves
+HT ANCILLARY SYSTEM WORK SITC of 150 X 40Mm Raceway With Jb
+HT ANCILLARY SYSTEM WORK Liasoning Charges For Substation
+LOW SIDE ELECTRICAL WORK Primary Point Cntrld By 6 Amp Switch
+LOW SIDE ELECTRICAL WORK Secondary Point Incl Switch
+LOW SIDE ELECTRICAL WORK Looping Between 1St Swtch Brd To 2Nd
+LOW SIDE ELECTRICAL WORK Primary Point Cntrld By Mcb
+LOW SIDE ELECTRICAL WORK Secondary Point Cntrld By Mcb
+LOW SIDE ELECTRICAL WORK Wiring For 250V Single Phase 16 Amps
+LOW SIDE ELECTRICAL WORK Wiring For 250V Single Phase 32 Amps
+LOW SIDE ELECTRICAL WORK Wiring For 250V Single Phase 6/16 Amps
+LOW SIDE ELECTRICAL WORK Wiring Primary Point (250V S.Ph 6/16 A)
+LOW SIDE ELECTRICAL WORK Wiring Secondary Point (250V S.Ph 16 A)
+LOW SIDE ELECTRICAL WORK Wiring Primary Point (6A Switch Socket)
+LOW SIDE ELECTRICAL WORK Wiring Secondary Point (> 6.1A)
+LOW SIDE ELECTRICAL WORK Wiring For Exhaust Fan
+LOW SIDE ELECTRICAL WORK P&F 4M2 PVC Insulated Cupper Conductor
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 400 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 300 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 240 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 185 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 150 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 120 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 95 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 70 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 50 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 35 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 25 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-4 Core 16 Sq.Mm
+LOW SIDE ELECTRICAL WORK S&L Cu Cable-4 Core 10 Sq. Mm.
+LOW SIDE ELECTRICAL WORK S&L Cu Cable-4 Core 6 Sq.Mm
+LOW SIDE ELECTRICAL WORK S&L Cu Cable-4 Core 4 Sq.Mm
+LOW SIDE ELECTRICAL WORK S&L Cu Cable-3 Core 10 Sq.Mm
+LOW SIDE ELECTRICAL WORK S&L Cu Cable-3 Core 6 Sq. Mm.
+LOW SIDE ELECTRICAL WORK S&L Cu Cable-3 Core 4 Sq. Mm.
+LOW SIDE ELECTRICAL WORK S&L 2.5 Mm2 Control Cable
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 400 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 300 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 240 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 185 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 150 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 120 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 95 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 70 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 50 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 35 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-3.5 Core 25 Sq. Mm
+LOW SIDE ELECTRICAL WORK S&L Al Cable-4 Core 16 Sq.Mm
+LOW SIDE ELECTRICAL WORK S&L 4 Core 10 Sq. Mm Copper Cable
+LOW SIDE ELECTRICAL WORK S&L 4 Core 6 Sq.Mm Copper Cable
+LOW SIDE ELECTRICAL WORK S&L 4 Core 4 Sq.Mm Copper Cable
+LOW SIDE ELECTRICAL WORK S&L 3 Core 10 Sq.Mm Copper Cable
+LOW SIDE ELECTRICAL WORK S&L 3 Core 6 Sq. Mm Copper Cable
+LOW SIDE ELECTRICAL WORK S&L 3 Core 4 Sq. Mm Copper Cable
+LOW SIDE ELECTRICAL WORK P&F M Class GI Pipe Sleeves-100 Mm. Dia.
+LOW SIDE ELECTRICAL WORK P&F M Class GI Pipe Sleeves-50 Mm. Dia.
+LOW SIDE ELECTRICAL WORK S&F Fabricated GI Ladder-1500 Mm Wide
+LOW SIDE ELECTRICAL WORK S&F Fabricated GI Ladder-1200 Mm Wide
+LOW SIDE ELECTRICAL WORK S&F Fabricated GI Ladder-1000 Mm Wide
+LOW SIDE ELECTRICAL WORK S&F Fabricated GI Ladder-750 Mm Wide
+LOW SIDE ELECTRICAL WORK S&F Fabricated GI Ladder-600 Mm Wide
+LOW SIDE ELECTRICAL WORK S&F Fabricated GI Ladder-450 Mm Wide
+LOW SIDE ELECTRICAL WORK S&F GI Cable Tray-450 Mm (40X40X2Mm)
+LOW SIDE ELECTRICAL WORK S&F GI Cable Tray-300  Mm (40X40X2Mm)
+LOW SIDE ELECTRICAL WORK S&F GI Cable Tray-150  Mm (40X40X2Mm)
+LOW SIDE ELECTRICAL WORK S&F Rcc (Np-2) Hume Pipe-300 Mm (Id)
+LOW SIDE ELECTRICAL WORK S&F Rcc (Np-2) Hume Pipe-200 Mm (Id)
+LOW SIDE ELECTRICAL WORK S&F Rcc (Np-2) Hume Pipe-150 Mm (Id)
+LOW SIDE ELECTRICAL WORK SITC of Dg Sync & Load Managing Panel
+LOW SIDE ELECTRICAL WORK SITC of Main Lt Cum Change Over Panel
+LOW SIDE ELECTRICAL WORK SITC of Common Utility/Emergency Panel
+LOW SIDE ELECTRICAL WORK SITC of Hvac Odu Panel Hostel
+LOW SIDE ELECTRICAL WORK SITC of Parkingventillation Panel Office
+LOW SIDE ELECTRICAL WORK SITC of Common Area Lighting Panel Off
+LOW SIDE ELECTRICAL WORK SITC of External Lighting Panel
+LOW SIDE ELECTRICAL WORK SITC of Comm Area Power Dist Panel
+LOW SIDE ELECTRICAL WORK SITC of Comm Utility/Emgy Panel Hostel
+LOW SIDE ELECTRICAL WORK SITC of Lift Dist Panel 1 Office
+LOW SIDE ELECTRICAL WORK SITC of Lift Dist Panel 2 Office
+LOW SIDE ELECTRICAL WORK SITC of Lift Dist Panel  Hostel
+LOW SIDE ELECTRICAL WORK SITC of Terrace Ventilation Panel Off
+LOW SIDE ELECTRICAL WORK SITC of Terrace Ventilation Panel Hstl
+LOW SIDE ELECTRICAL WORK SITC of Ups Panel Common Area
+LOW SIDE ELECTRICAL WORK SITC of Floor Dist Panel Fdb3 -Fdb17 Off
+LOW SIDE ELECTRICAL WORK SITC of Floor Dist Panel Fdb1 Off
+LOW SIDE ELECTRICAL WORK SITC of Floor Dist Panel Fdb2 Off
+LOW SIDE ELECTRICAL WORK SITC of Floor Dist Panel Fdb3-Fdb12 Hstl
+LOW SIDE ELECTRICAL WORK SITC of Floor Dist Panel Fdb1 Hstl
+LOW SIDE ELECTRICAL WORK SITC of Floor Dist Panel Fdb2 Hstl
+LOW SIDE ELECTRICAL WORK SITC of 2500Amps Busduct From Trafo
+LOW SIDE ELECTRICAL WORK SITC of 2500Amps Busduct From Dg Sync
+LOW SIDE ELECTRICAL WORK SITC of 3000Amp Tinned Cu Connection
+LOW SIDE ELECTRICAL WORK SITC of 1600Amp Rising Main 1
+LOW SIDE ELECTRICAL WORK SITC of 1600Amp Rising Main 2
+LOW SIDE ELECTRICAL WORK SITC of 800Amp Rising Main 3
+LOW SIDE ELECTRICAL WORK SITC 1600Amp 4P Acb For Rising Main
+LOW SIDE ELECTRICAL WORK SITC 800Amp 4P Acb For Rising Main
+LOW SIDE ELECTRICAL WORK SITC of 500Amp Tpn Mccb Tapoff Box
+LOW SIDE ELECTRICAL WORK SITC of 400Amp Tpn Mccb Tapoff Box
+LOW SIDE ELECTRICAL WORK SITC of 200Amp Tpn Mccb Tapoff Box
+LOW SIDE ELECTRICAL WORK SITC of 160Amp Tpn Mccb Tapoff Box
+LOW SIDE ELECTRICAL WORK SITC of 125Amp Tpn Mccb Tapoff Box
+LOW SIDE ELECTRICAL WORK SITC of 100Amp Tpn Mccb Tapoff Box
+LOW SIDE ELECTRICAL WORK SITC of 36Way Tpndb Typ A Ldb
+LOW SIDE ELECTRICAL WORK SITC of 36Way Tpndb Typ B Pdb
+LOW SIDE ELECTRICAL WORK SITC of 24Way Tpndb Typ C Ldb
+LOW SIDE ELECTRICAL WORK SITC of 24Way Tpndb Typ D Ldb
+LOW SIDE ELECTRICAL WORK SITC of 18Way Tpndb Typ E Pdb
+LOW SIDE ELECTRICAL WORK SITC of 12Way Tpndb Typ F Pdb
+LOW SIDE ELECTRICAL WORK SITC of 12Way Tpndb Typ C Edb
+LOW SIDE ELECTRICAL WORK SITC of 18Way Tpndb Typ C Edb
+LOW SIDE ELECTRICAL WORK SITC of 2+16Way Spndb Typ G Eldb
+LOW SIDE ELECTRICAL WORK SITC of 2+12Way Spndb Typ H Eldb
+LOW SIDE ELECTRICAL WORK SITC of 2+8Way Spndb Typ H Eldb
+LOW SIDE ELECTRICAL WORK SITC of 2+8Way Spndb Typ I Ldb
+LOW SIDE ELECTRICAL WORK SITC of 2+8Way Spndb Typ I Pdb
+LOW SIDE ELECTRICAL WORK SITC of 63Amp 4P Mcb Isso With Enclosure
+LOW SIDE ELECTRICAL WORK SITC of 16Amp 4P Metal Clad Socket & Mcb
+LOW SIDE ELECTRICAL WORK S&F 1000Mm Wide 1.1Kv Grade Rubber Mat
+LOW SIDE ELECTRICAL WORK SITC of 600Kvar Apfc Panel
+LOW SIDE ELECTRICAL WORK SITC of 600X600X3.15Mm  Cu Plate Earth
+LOW SIDE ELECTRICAL WORK SITC of 600X600X6.3Mm  GI Plate Earth
+LOW SIDE ELECTRICAL WORK SITC of 14.35Mm Dia3M Long Cu  Earth Rod
+LOW SIDE ELECTRICAL WORK SITC of 50X6Mm Bare Cu Tape
+LOW SIDE ELECTRICAL WORK SITC of 25X6Mm Bare Cu Tape
+LOW SIDE ELECTRICAL WORK SITC of 25X3Mm Bare Cu Tape
+LOW SIDE ELECTRICAL WORK SITC of 50X10Mm Bare GI Tape
+LOW SIDE ELECTRICAL WORK SITC of 50X6Mm Bare GI Tape
+LOW SIDE ELECTRICAL WORK SITC of 25X6Mm Bare GI Tape
+LOW SIDE ELECTRICAL WORK SITC of 8Swg GI Wire
+LOW SIDE ELECTRICAL WORK SITC of 1C 25Sqmm  Green Cu Cable
+LOW SIDE ELECTRICAL WORK S&I of 50X 6Mm Cubusbar With 6 Holes
+LOW SIDE ELECTRICAL WORK SITC of Lockable Earth Terminal Box
+LOW SIDE ELECTRICAL WORK SITC of 50Mm Dia GI Hd Road Crossing
+LOW SIDE ELECTRICAL WORK SITC of 100Mm Dia GI Hd Road Crossing
+LOW SIDE ELECTRICAL WORK SITC of 8Mm Dia Cu Bonded Steelconductor
+LOW SIDE ELECTRICAL WORK Interconection of Cbsc Joints
+LOW SIDE ELECTRICAL WORK Interconnections Between Cbsc & Steelbar
+LOW SIDE ELECTRICAL WORK SITC of Earth Pad In Concrete Floor/Wall
+LOW SIDE ELECTRICAL WORK SITC of Earthpad In Conc Floor Lift Loby
+LOW SIDE ELECTRICAL WORK Joints Bw Cbsc & Earth Pad
+LOW SIDE ELECTRICAL WORK P&F Lightning Cond 25X300Mm GI Tube
+LOW SIDE ELECTRICAL WORK F of Lightning Cond With Base Plate
+LOW SIDE ELECTRICAL WORK Jointing of Cu/Gi Tape
+LOW SIDE ELECTRICAL WORK P&F GI Tape 20X3Mm On Parapet Horz. Run
+LOW SIDE ELECTRICAL WORK P&F GI Tape 20X3Mm On Wall Vert. Run
+LOW SIDE ELECTRICAL WORK SITC of 8Mm Dia Cbsc For Lightning Protc
+LOW SIDE ELECTRICAL WORK P&F of Testing Joint 20X3Mm GI Strip
+LOW SIDE ELECTRICAL WORK P&L GI Tape 32X6Mm In Ground
+LOW SIDE ELECTRICAL WORK SITC of 32X6Mm GI Tape For Looping
+LOW SIDE ELECTRICAL WORK P&L 14.35Mm Dia 3M Lng
+LOW SIDE ELECTRICAL WORK SITC of Stormaster 60-79M Adv Lightprot
+LOW SIDE ELECTRICAL WORK SITC of Uper & Lower Term Kit
+LOW SIDE ELECTRICAL WORK SITC of Frp Mast 2M
+LOW SIDE ELECTRICAL WORK SITC of Inline Coupling
+LOW SIDE ELECTRICAL WORK SITC of Guy Wire Kit
+LOW SIDE ELECTRICAL WORK SITC of GI Mast 3M
+LOW SIDE ELECTRICAL WORK SITC of Hvsc Cu Core Cable 70Sqmm
+LOW SIDE ELECTRICAL WORK SITC of GI Pipe 75Mm Dia Road Crossing
+LOW SIDE ELECTRICAL WORK P&F of Test Link In 1.6Mm Thck Ms Box
+LOW SIDE ELECTRICAL WORK SITC of Com Type 1X18Watt Led Tubelight
+LOW SIDE ELECTRICAL WORK SITC of Com Type 2X18Watt Led Tubelight
+LOW SIDE ELECTRICAL WORK SITC of Com Type 1X28Watt Tl-5 Fitting
+LOW SIDE ELECTRICAL WORK SITC of Com Type 2X28Watt Tl-5 Fitting
+LOW SIDE ELECTRICAL WORK SITC of Recessed 1X24Watt Led Downlight
+LOW SIDE ELECTRICAL WORK SITC of Surface 1X24Watt Led Downlight
+LOW SIDE ELECTRICAL WORK SITC of Recessed 1X12Watt Led Downlight
+LOW SIDE ELECTRICAL WORK SITC of 10W Led Bulkhead Light
+LOW SIDE ELECTRICAL WORK SITC of 48" Sweep Ceiling Fan 5 Star
+LOW SIDE ELECTRICAL WORK SITC of 225Mm Sweep Hd Exhaust Fan
+LOW SIDE ELECTRICAL WORK SITC of Led Aviation Light Cluster
+LOW SIDE ELECTRICAL WORK SITC of Occupancy Sensor
+LOW SIDE ELECTRICAL WORK SITC of Motion Control Sensor
+LOW SIDE ELECTRICAL WORK SITC of 75Kva Ups 3Ph 30Min Backup
+LOW SIDE ELECTRICAL WORK SITC of 2.5Kva Ups 3Ph 15Min Backup
+LOW SIDE ELECTRICAL WORK Sat At Full Load Com With Load Bank
+LOW SIDE ELECTRICAL WORK S&F of 1000Mm Wide Ruber Mat 1100Volt
+LOW SIDE ELECTRICAL WORK SITC of Street Light On 8M Pole
+LOW SIDE ELECTRICAL WORK SITC of Wall Braket Light
+LOW SIDE ELECTRICAL WORK SITC of 12M High Mast
+LOW SIDE ELECTRICAL WORK SITC of Column Light
+LOW SIDE ELECTRICAL WORK SITC of 11W Bollard
+LOW SIDE ELECTRICAL WORK SITC of Post Top Luminaire For Gate
+LOW SIDE ELECTRICAL WORK SITC of Step Light
+LOW SIDE ELECTRICAL WORK SITC of In Ground Luminaires
+LOW SIDE ELECTRICAL WORK SITC of Bushlight
+LOW SIDE ELECTRICAL WORK SITC of Underwater Lights With Driver
+LOW SIDE ELECTRICAL WORK Sep & Earthing of 8M Long Steel Pole
+LOW SIDE ELECTRICAL WORK SITC of 3X2.5Sqmm Cu Ar Cable
+LOW SIDE ELECTRICAL WORK SITC of 3X4Sqmm Cu Ar Cable
+LOW SIDE ELECTRICAL WORK SITC of 3X6Sqmm Cu Ar Cable
+LOW SIDE ELECTRICAL WORK SITC of 2X16Sqmm Cu Ar Cable
+LOW SIDE ELECTRICAL WORK SITC of 2X10Sqmm Cu Ar Cable
+LOW SIDE ELECTRICAL WORK SITC of 2X6Sqmm Cu Ar Cable
+LOW SIDE ELECTRICAL WORK SITC of 3X4Sqmm Wire In 25Mm GI Conduit
+LOW SIDE ELECTRICAL WORK SITC of 3X2.5Sqmm Wire In 25Mm GI Condui
+LOW SIDE ELECTRICAL WORK SITC of 200X150X125Mm Weathr Proof Jb
+LOW SIDE ELECTRICAL WORK SITC of Weathr Proof Jb One Way
+LOW SIDE ELECTRICAL WORK SITC of Weathr Proof Jb Two Way
+LOW SIDE ELECTRICAL WORK SITC of Weathr Proof Jb Three Way
+DG SET & ALLIED WORK Supply of 1750Kva Dg Set
+DG SET & ALLIED WORK ITC of 1750Kva Dg Set
+DG SET & ALLIED WORK Supply of 1010Kva Dg Set
+DG SET & ALLIED WORK ITC of 1010Kva Dg Set
+DG SET & ALLIED WORK Supply of B Cls Ms Pipe With Insulation
+DG SET & ALLIED WORK ITC of Exhaust Piping
+DG SET & ALLIED WORK SITC of 600X600X6.3Mm GI Plate Earth
+DG SET & ALLIED WORK SITC of 600X600X3.15Mm Cu Plate Earth
+DG SET & ALLIED WORK P&L of 50 X 6 Mm GI Strip
+DG SET & ALLIED WORK P&L 8 Swg GI Wire
+DG SET & ALLIED WORK P&L 50X6 Mm Cu Strip
+DG SET & ALLIED WORK P&L 25X6 Mm Cu Strip
+DG SET & ALLIED WORK SITC of 50Mm Dia GI Road Crossing
+DG SET & ALLIED WORK SITC of 100Mm Dia GI Road Crossing
+DG SET & ALLIED WORK S&F of Shock Treatment Chart
+DG SET & ALLIED WORK S&F of Fire Buckets
+DG SET & ALLIED WORK P&F of Danger Board
+DG SET & ALLIED WORK S&F of 1.8M Len 0.9M Wide Rubber Mat
+DG SET & ALLIED WORK P&F Fire Extng Co2 5Lts Capacity
+DG SET & ALLIED WORK S&I of Hand Pump For Diesel Transfer
+DG SET & ALLIED WORK P&W of Control Wires Bw Gen & Panel
+DG SET & ALLIED WORK P&F Twin Dome Aviation Lamp
+DG SET & ALLIED WORK Obtaining Cpcb & Wbspcb Clearance
+DG SET & ALLIED WORK SITC of Temporary Load Bank 10% Overload
+ELEVATOR SITC of 24 Pax Elevator
+ELEVATOR SITC of 13 Pax Elevator
+ELEVATOR SITC of 20 Pax Elevator
+ELEVATOR Port Charges & Customs Duty Elevator
+ELEVATOR Unloading & Shifting Charges
+CHILLERS SITC of 350Tr Water Cooled Chillers
+CHILLERS Port & Handling Charges For Chillers
+CHILLERS T&C of Above Machines
+HVAC SYSTEM OF OFFICE BLOCK SITC of Vav 200-500Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Vav 501-600Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Vav 1000-1500Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Vav 2001-2500Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Vav 2501-3000Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Vav 30001-4000Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Vav 4001-5000Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Vav 5001-6000Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Vav 6001-7000Cfm
+HVAC SYSTEM OF OFFICE BLOCK Port & Handling Charges For Vav
+HVAC SYSTEM OF OFFICE BLOCK Customs Duty & Countervailing For Vav
+HVAC SYSTEM OF OFFICE BLOCK Unloading & Shifting Charges For Vav
+HVAC SYSTEM OF OFFICE BLOCK SITC of Electrnc Pr Indepndt Vlv 3.6Gpm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Electrnc Pr Indepndt Vlv 19.2Gpm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Electrnc Pr Indepndt Vlv 48Gpm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Electrnc Pr Indepndt Vlv 52.8Gpm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Electrnc Pr Indepndt Vlv 55.3Gpm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Electrnc Pr Indepndt Vlv 144Gpm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Electrnc Pr Indepndt Vlv163.2Gpm
+HVAC SYSTEM OF OFFICE BLOCK Port Charges For Valve
+HVAC SYSTEM OF OFFICE BLOCK Customs Duty & Countervailing For Valve
+HVAC SYSTEM OF OFFICE BLOCK ITC of Electrnc Pr Indepndt Vlv
+HVAC SYSTEM OF OFFICE BLOCK Supply of Thermostats Cif
+HVAC SYSTEM OF OFFICE BLOCK Port Charges For Thermostats
+HVAC SYSTEM OF OFFICE BLOCK Customs Duty For Thermostat
+HVAC SYSTEM OF OFFICE BLOCK Unloading & Shifting Charges For Ts
+HVAC SYSTEM OF OFFICE BLOCK Supply of Vfd For Ahu 2.2Kw
+HVAC SYSTEM OF OFFICE BLOCK Supply of Vfd For Ahu 3.7Kw
+HVAC SYSTEM OF OFFICE BLOCK Supply of Vfd For Ahu 5.5Kw
+HVAC SYSTEM OF OFFICE BLOCK Supply of Vfd For Ahu 15Kw
+HVAC SYSTEM OF OFFICE BLOCK Supply of Vfd For Ahu 22Kw
+HVAC SYSTEM OF OFFICE BLOCK Supply of Vfd For Ahu 18.5Kw
+HVAC SYSTEM OF OFFICE BLOCK Port Handling Charges For Vfd
+HVAC SYSTEM OF OFFICE BLOCK Customs Duty & Contervailing For Vfd
+HVAC SYSTEM OF OFFICE BLOCK Unloading Shifting Handling Charges Vfd
+HVAC SYSTEM OF OFFICE BLOCK SITC of Cooling Tower For 350 Tr Chiller
+HVAC SYSTEM OF OFFICE BLOCK SITC of Primary Chw Pump 15Hp
+HVAC SYSTEM OF OFFICE BLOCK SITC of Condensor Pump 25 Hp
+HVAC SYSTEM OF OFFICE BLOCK SITC of Pr Chw Expansion Tank With Pump
+HVAC SYSTEM OF OFFICE BLOCK SITC of Chw Secondary Pump 50Hp
+HVAC SYSTEM OF OFFICE BLOCK SITC of Sec Pump Controller & Sensor
+HVAC SYSTEM OF OFFICE BLOCK SITC of 50Hp Variable Speed Drive
+HVAC SYSTEM OF OFFICE BLOCK SITC of 3200 Cfm 8Tr Ahu Brch Off Gf
+HVAC SYSTEM OF OFFICE BLOCK SITC of 700 Cfm 1.5Tr Ahu Cour Rm Gf
+HVAC SYSTEM OF OFFICE BLOCK SITC of 10250 Cfm 22Tr Ahuentr Lby Gf
+HVAC SYSTEM OF OFFICE BLOCK SITC of 3200 Cfm 8Tr Ahu Cust Care Mf
+HVAC SYSTEM OF OFFICE BLOCK SITC of 7000 Cfm 20Tr Ahu Hstl Dng L7F
+HVAC SYSTEM OF OFFICE BLOCK SITC of 8200 Cfm 23Tr Ahu Hstl Dng R7F
+HVAC SYSTEM OF OFFICE BLOCK SITC of 28450 Cfm 60Tr Ahu Off Ar 9-22Fl
+HVAC SYSTEM OF OFFICE BLOCK SITC of 28950 Cfm 68Tr Ahu Off Ar 23Fl
+HVAC SYSTEM OF OFFICE BLOCK SITC of Hru 55Tr 26650Cfm At Terrace
+HVAC SYSTEM OF OFFICE BLOCK SITC of 7.5Tr Pac Unit
+HVAC SYSTEM OF OFFICE BLOCK SITC of 10Tr Pac Unit
+HVAC SYSTEM OF OFFICE BLOCK SITC of 15Tr Pac Unit
+HVAC SYSTEM OF OFFICE BLOCK SITC of 1Tr Split Ac
+HVAC SYSTEM OF OFFICE BLOCK SITC of 1.5Tr Split Ac
+HVAC SYSTEM OF OFFICE BLOCK SITC of 2Tr Split Ac
+HVAC SYSTEM OF OFFICE BLOCK SITC of Lift Pr Fan 32000Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Lift & Lobby Pr Fan 38300Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Lift & Makeup Air Prfan 58300Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Lift & Lobby Pr Fan 35800Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Staircase Pr Fan 12000Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Off Smoke Extrctn Fan 23750Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Prkng Smoke Extrctn Fan 30500Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Kitchn Frsh Air Fan 8000Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Proplr Fan 550Mm Dia 2900Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Inline Fan 200Cfm For Toilet
+HVAC SYSTEM OF OFFICE BLOCK SITC of Inline Fan 300Cfm For Toilet
+HVAC SYSTEM OF OFFICE BLOCK SITC of Inline Fan 600Cfm For Toilet
+HVAC SYSTEM OF OFFICE BLOCK SITC of Kitchn Air Scrubber 7500Cfm
+HVAC SYSTEM OF OFFICE BLOCK SITC of Hvac Plant Mcc1
+HVAC SYSTEM OF OFFICE BLOCK SITC of Hvac Plant Mcc2
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ahu Vfd Starter Panel 15Kw
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ahu Vfd Starter Panel 5.5Kw
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ahu Vfd Starter Panel 3.7Kw
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ahu Vfd Starter Panel 2.2Kw
+HVAC SYSTEM OF OFFICE BLOCK SITC of 0.2 Kw Dol Starter For Exhust
+HVAC SYSTEM OF OFFICE BLOCK SITC of 0.5 Kw Dol Starter For Ventltn
+HVAC SYSTEM OF OFFICE BLOCK SITC of 7.5 Kw Star Delta Starter
+HVAC SYSTEM OF OFFICE BLOCK SITC of 11Kw Star Delta Starter
+HVAC SYSTEM OF OFFICE BLOCK SITC of 18.5Kw Star Delta Starter
+HVAC SYSTEM OF OFFICE BLOCK SITC of 18.5Kw Star Delta Starter
+HVAC SYSTEM OF OFFICE BLOCK SITC of 18.5Kw Star Delta Starter
+HVAC SYSTEM OF OFFICE BLOCK SITC of 45Kw Star Delta Starter
+HVAC SYSTEM OF OFFICE BLOCK SITC of 18.5Kw Star Delta Starter
+HVAC SYSTEM OF OFFICE BLOCK SITC of 2.2Kw Star Delta Starter
+HVAC SYSTEM OF OFFICE BLOCK SITC For Mcc of Fresh Air (Doas)Unit
+HVAC SYSTEM OF OFFICE BLOCK SITC of 600Mm Dia Ms Pipes For Chw Line
+HVAC SYSTEM OF OFFICE BLOCK SITC of 500Mm Dia Ms Pipes For Chw Line
+HVAC SYSTEM OF OFFICE BLOCK SITC of 450Mm Dia Ms Pipes For Chw Line
+HVAC SYSTEM OF OFFICE BLOCK SITC of 400Mm Dia Ms Pipes For Chw Line
+HVAC SYSTEM OF OFFICE BLOCK SITC of 350Mm Dia Ms Pipes For Chw Line
+HVAC SYSTEM OF OFFICE BLOCK SITC of 300Mm Dia Ms Pipes For Chw Line
+HVAC SYSTEM OF OFFICE BLOCK SITC of 250Mm Dia Ms Pipes For Chw Line
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 200Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 150Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 125Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 100Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 80Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 65Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 50Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 40Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 32Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 25Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of C Cls Ms Pipe 20Mm Dia For Chw
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 400Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Noninslt Butterfly Vlv 350Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 300Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Noninslt Butterfly Vlv 250Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 200Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 200Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 150Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 125Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 100Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 80Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 65Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 50Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Butterfly Vlv 40Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Balancing Vlv 300Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Noninslt Balancing Vlv 250Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Balancing Vlv 200Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinsltmtr Btrfly Vlv 300Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinsltmtr Btrfly Vlv 250Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinsltmtr Btrfly Vlv 200Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinsltmtr Btrfly Vlv 150Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ball Valve With Insl 40Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ball Valve With Insl 32Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ball Valve With Insl 25Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ball Valve With Ystrn 25Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ball Valve With Ystrn 32Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Check Vlv 300Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Check Vlv 250Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Check Vlv 200Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Check Vlv 150Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 250Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 200Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 150Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 125Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 100Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 80Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 65Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 50Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 40Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Preinslt Y Strainer 30Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Pot Strainer 350Mm Dia Pipe
+HVAC SYSTEM OF OFFICE BLOCK SITC of Pot Strainer 250Mm Dia Pipe
+HVAC SYSTEM OF OFFICE BLOCK SITC of Pot Strainer 200Mm Dia Pipe
+HVAC SYSTEM OF OFFICE BLOCK SITC of Flexible Connection 300Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Flexible Connection 250Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Flexible Connection 200Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Flexible Connection 150Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Auto Air Vents
+HVAC SYSTEM OF OFFICE BLOCK P&F Probe Type Flow Meter
+HVAC SYSTEM OF OFFICE BLOCK P&F Ss304 Dial Type Pr Gauge Wth Gm Vlv
+HVAC SYSTEM OF OFFICE BLOCK P&F Ss304 Hg Type Pr Gauge Wth Gm Vlv
+HVAC SYSTEM OF OFFICE BLOCK SITC of GI Drain Pipe 100Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of GI Drain Pipe 50Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of GI Drain Pipe 40Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of 26 G GI Sheet Ducts
+HVAC SYSTEM OF OFFICE BLOCK SITC of 24 G GI Sheet Ducts
+HVAC SYSTEM OF OFFICE BLOCK SITC of 22 G GI Sheet Ducts
+HVAC SYSTEM OF OFFICE BLOCK SITC of 20 G GI Sheet Ducts
+HVAC SYSTEM OF OFFICE BLOCK SITC of 18 G GI Sheet Ducts
+HVAC SYSTEM OF OFFICE BLOCK SITC of Fire Wrapping On Duct
+HVAC SYSTEM OF OFFICE BLOCK SITC of Flexible Canvas Connection
+HVAC SYSTEM OF OFFICE BLOCK SITC of GI Dapmers Within Duct
+HVAC SYSTEM OF OFFICE BLOCK SITC of Smoke & Fire Damper
+HVAC SYSTEM OF OFFICE BLOCK SITC of Actuator For Fd
+HVAC SYSTEM OF OFFICE BLOCK SITC of Control Panel & Wiring For Fd
+HVAC SYSTEM OF OFFICE BLOCK SITC of Al Air Grill With Louvers & Vcd
+HVAC SYSTEM OF OFFICE BLOCK SITC of Al Air Grill With Hrzn Fixed Bar
+HVAC SYSTEM OF OFFICE BLOCK SITC of Al Air Grill With Louvers
+HVAC SYSTEM OF OFFICE BLOCK SITC of Al Air Transfr Door Grills
+HVAC SYSTEM OF OFFICE BLOCK SITC of Auto Pr Relief Damper
+HVAC SYSTEM OF OFFICE BLOCK SITC of Al Louver With Bird Screen
+HVAC SYSTEM OF OFFICE BLOCK SITC of Ms Louver With Bird Screen
+HVAC SYSTEM OF OFFICE BLOCK SITC of 15Mm Thk Acoust Lining On Duct
+HVAC SYSTEM OF OFFICE BLOCK SITC of 15Mm Thk Acoust Lining On Duct
+HVAC SYSTEM OF OFFICE BLOCK SITC Of19Mm Thk Thermal Insl On S&R Duct
+HVAC SYSTEM OF OFFICE BLOCK SITC Of25Mm Thk Thermal Insl On S&R Duct
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 40Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 32Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 25Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 20Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 15Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 50Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 32Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 25Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 150Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 125Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 100Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 80Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 65Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 50Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 400Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 350Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 300Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 250Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK Sit of Nitrile Rubb Wth Coatng 200Mm Dia
+HVAC SYSTEM OF OFFICE BLOCK SITC of Acoust Lining On Wall 25Mm Thck
+HVAC SYSTEM OF OFFICE BLOCK Charges For System T&C By Third Party
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Odu 22Hp Gf
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Odu 42Hp 7Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Odu 58Hp 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Odu 66Hp 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Odu 42Hp 9 To 17Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Odu 48Hp 18Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Odu 28Hp 19Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Odu 66Hp Doas Unit
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Hiwall 1.6Tr 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Hiwall 1.6Tr 18Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Hiwall 2Tr 18Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Hiwall 2Tr 8Th Flr Vc Room
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Hiwall 2Tr 18Th Flr Gym
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Hiwall 2Tr 18Th Flr Bad Court
+HVAC SYSTEM OF HOSTEL BLOCK SITC of  Cassette 1.6Tr 8Th Flr Conf
+HVAC SYSTEM OF HOSTEL BLOCK SITC of  Cassette 2Tr 8Th Flr Conf
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Dx Fcu 2Tr 10-17Th Flr Hstlrm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Dx Fcu 2.5Tr 10-17Th Flr Hstlrm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 20Tr 8000Cfm Csu 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 15Tr 6000Cfm Csu 9Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 10Tr 4000Cfm Csu 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 9.5Tr 3800Cfm Csu 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 9.5Tr 3800Cfm Csu 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 9Tr 3600Cfm Csu 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 8Tr 3200Cfm Csu 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 7.5Tr 3000Cfm Csu 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 7.5Tr 3000Cfm Csu 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 6.5Tr 2600Cfm Csu 8Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 4Tr 1600Cfm Csu 10-17Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 3Tr 1200Cfm Csu 10-17Th Flr
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Crc
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 16G Cu Pipe 6.35Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 16G Cu Pipe 9.5Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 16G Cu Pipe 12.7Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 16G Cu Pipe 15.8Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 16G Cu Pipe 19.1Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 16G Cu Pipe 22.2Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 16G Cu Pipe 28.5Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 16G Cu Pipe 34.9Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 16G Cu Pipe 41.3Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK Charges For Customs Duty On Imprt Eqpmt
+HVAC SYSTEM OF HOSTEL BLOCK Charges For Port Clearance
+HVAC SYSTEM OF HOSTEL BLOCK S&I of 25Mm Dia PVC Drain Pipe With Insu
+HVAC SYSTEM OF HOSTEL BLOCK S&I of 32Mm Dia PVC Drain Pipe With Insu
+HVAC SYSTEM OF HOSTEL BLOCK S&I of 40Mm Dia PVC Drain Pipe With Insu
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Hru 22000 Cfm 50Tr Capacity
+HVAC SYSTEM OF HOSTEL BLOCK Supply of Vav Min 700Cfm Max 1300Cfm
+HVAC SYSTEM OF HOSTEL BLOCK Supply of Vav Min 1000Cfm Max 1900Cfm
+HVAC SYSTEM OF HOSTEL BLOCK Supply of Vav Min 2000Cfm Max 3000Cfm
+HVAC SYSTEM OF HOSTEL BLOCK Port & Handling Charges For Vav
+HVAC SYSTEM OF HOSTEL BLOCK Customs Duty & Contervailing For Vav
+HVAC SYSTEM OF HOSTEL BLOCK Shifting & Installing of Vav
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Axial Fan 28500Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Axial Fan 11100Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Axial Fan 11300Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Axial Fan 11300Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Propellor Fan 100Mm Dia 100Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Propellor Fan 100Mm Dia 100Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Propellor Fan 400Mm Dia 1050Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Propellor Fan 400Mm Dia 1050Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Propellor Fan 300Mm Dia 700Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Propellor Fan 400Mm Dia 1000Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Propellor Fan 400Mm Dia 1000Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Propellor Fan 100Mm Dia 100Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Inline Fan 6000Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Inline Fan 5300Cfm
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 26G GI Duct
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 24G GI Duct
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 22G GI Duct
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Flexible Duct Connection
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Smoke & Fire Dampers
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Actuator For Fd
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Control Panel & Wiring For Fd
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Al Grill With Dbl Louvers
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Al Grill With Fixed Bars
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Al Louvers Wth Cowl Brd Screen
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Ms Louvers Wth Cowl Brd Screen
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Al Sply Grill Wth Vcd
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 18G Gss Vcd In Sply Air Duct
+HVAC SYSTEM OF HOSTEL BLOCK SITC Al Pwdr Coated Sply Diffusers
+HVAC SYSTEM OF HOSTEL BLOCK SITC Ms Pwdr Coated Sply Diffusers
+HVAC SYSTEM OF HOSTEL BLOCK SITC Al Pwdr Coated Rtrn Diffusers
+HVAC SYSTEM OF HOSTEL BLOCK SITC Ms Pwdr Coated Rtrn Diffusers
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Cu Pipe Insu 19/13Mm 6.35Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Cu Pipe Insu 19/13Mm 9.5Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Cu Pipe Insu 19/13Mm 6.35Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Cu Pipe Insu 19/13Mm 6.35Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Cu Pipe Insu 19/13Mm 6.35Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Cu Pipe Insu 19/13Mm 6.35Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Cu Pipe Insu 19/13Mm 6.35Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Cu Pipe Insu 19/13Mm 6.35Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Cu Pipe Insu 19/13Mm 6.35Mm Dia
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Acoustc Lining 15Mm Thck
+HVAC SYSTEM OF HOSTEL BLOCK SITC of Acoustc Lining 30Mm Thck
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 19Mm Thck Insl On Duct
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 25Mm Thck Insl On Duct
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 0.75Kw Dol Starter
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 1.1Kw Star-Delta Starter
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 3.7Kw Star-Delta Starter
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 5.5Kw Star-Delta Starter
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 2.2Kw Star-Delta Starter
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 1.5Kw Star-Delta Starter
+HVAC SYSTEM OF HOSTEL BLOCK SITC of 0.75Kw Dol Starter
+CHILLER PLANT OPTIMIZER SITC of Workstation For Cpo
+CHILLER PLANT OPTIMIZER SITC  of 24" Led Monitor
+CHILLER PLANT OPTIMIZER Software For Cpo As Per Ts
+CHILLER PLANT OPTIMIZER Software Interfac With Pump Vfd 3Nos
+CHILLER PLANT OPTIMIZER Software Interface For Energy Meter
+CHILLER PLANT OPTIMIZER SITC of Ddc Controller
+CHILLER PLANT OPTIMIZER SITC of Dp Transmitter
+CHILLER PLANT OPTIMIZER SITC of Dp Switch
+CHILLER PLANT OPTIMIZER SITC of Immersion Temp Sensor
+CHILLER PLANT OPTIMIZER SITC of Steam Temp Sensor
+CHILLER PLANT OPTIMIZER SITC of Level Switch
+CHILLER PLANT OPTIMIZER SITC of Outside Temp & Rh Sensor
+CHILLER PLANT OPTIMIZER SITC of Water Flow Switch
+CHILLER PLANT OPTIMIZER SITC of Limit Switch For Bfvlv Actuator
+CHILLER PLANT OPTIMIZER SITC of Ph Analyser
+CHILLER PLANT OPTIMIZER SITC of Tds Analyser
+CHILLER PLANT OPTIMIZER SITC of Water Hardness Analyser
+CHILLER PLANT OPTIMIZER SITC of Ultrasonic Flow Meter For Chw
+CHILLER PLANT OPTIMIZER SITC of 2Cx1Sqmm Atc Ar Cable
+CHILLER PLANT OPTIMIZER SITC 2 Pair 18Awg Atc Ar Comm Cable
+CHILLER PLANT OPTIMIZER SITC 3Cx1.5Sqmm Atc Ar Cable
+FIRE FIGHTING SYSTEM  SITC of Multi Stg Main Pump 180/120Mtr H
+FIRE FIGHTING SYSTEM  SITC of Dg Pump 180/120Mtr H
+FIRE FIGHTING SYSTEM  SITC of Jockey Pump 180Lpm 180Mtr H
+FIRE FIGHTING SYSTEM  SITC of Jockey Pump 180Lpm 120Mtr H
+FIRE FIGHTING SYSTEM  SITC of Air Vessel
+FIRE FIGHTING SYSTEM  P&F of 100Mm Dia Pr Gauge
+FIRE FIGHTING SYSTEM  P&F of Liquid Level Cntrlr For Pump
+FIRE FIGHTING SYSTEM  P&F 25Mm Dia Gm Fitting For Wlg
+FIRE FIGHTING SYSTEM  Pl&T of 250Mm Dia C Cls Ms Erw Pipe
+FIRE FIGHTING SYSTEM  Pl&T of 200Mm Dia C Cls Ms Erw Pipe
+FIRE FIGHTING SYSTEM  Pl&T of 150Mm Dia C Cls Ms Erw Pipe
+FIRE FIGHTING SYSTEM  Pl&T of 100Mm Dia C Cls Ms Erw Pipe
+FIRE FIGHTING SYSTEM  Pl&T of 80Mm Dia C Cls Ms Erw Pipe
+FIRE FIGHTING SYSTEM  Pl&T of 25Mm Dia C Cls Ms Erw Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat Painting On 250Mm Dia Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat Painting On 200Mm Dia Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat Painting On 150Mm Dia Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat Painting On 100Mm Dia Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat Painting On 80Mm Dia Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat Painting On 25Mm Dia Ms Pipe
+FIRE FIGHTING SYSTEM  P&F CI Y Strainer 200Mm Dia
+FIRE FIGHTING SYSTEM  P&S Ss Fire Brigade Suction Hose Cplng
+FIRE FIGHTING SYSTEM  P&S Ss Fire Brigade Connection
+FIRE FIGHTING SYSTEM  P&F  CI Foot Valve 200Mm Dia
+FIRE FIGHTING SYSTEM  P&F Elc Operated Dual Typ Pr Switches
+FIRE FIGHTING SYSTEM  P&F Ctrl Valve Wth Auto Alrm Gong 150Mm
+FIRE FIGHTING SYSTEM  P&F Level Switch Wth Var Diffrnt
+FIRE FIGHTING SYSTEM  0
+FIRE FIGHTING SYSTEM  P&I CI Body 200 Nb Sluice Valve
+FIRE FIGHTING SYSTEM  P&I CI Body Nrv 150 Nb
+FIRE FIGHTING SYSTEM  P&I CI Body Nrv 80 Nb
+FIRE FIGHTING SYSTEM  P&F CI Body Btrfly Valve 200Nb
+FIRE FIGHTING SYSTEM  P&F CI Body Btrfly Valve 150Nb
+FIRE FIGHTING SYSTEM  P&F CI Body Btrfly Valve 100Nb
+FIRE FIGHTING SYSTEM  P&F CI Body Btrfly Valve 80Nb
+FIRE FIGHTING SYSTEM  P&I 25Nb Gm Ball Valve
+FIRE FIGHTING SYSTEM  P&F Dbl Flange Rubber Bellow 200Nb
+FIRE FIGHTING SYSTEM  P&F Dbl Flange Rubber Bellow 150Nb
+FIRE FIGHTING SYSTEM  P&F Dbl Flange Rubber Bellow 100Nb
+FIRE FIGHTING SYSTEM  P&F Dbl Flange Rubber Bellow 80Nb
+FIRE FIGHTING SYSTEM  P&I Vibration Elimination Pad Typ A
+FIRE FIGHTING SYSTEM  P&I Vibration Elimination Pad Typ B
+FIRE FIGHTING SYSTEM  SITC of Mcc For Fire Protection Sys
+FIRE FIGHTING SYSTEM  Pl&T of 150Nb C Cls Ms Erw Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 80Nb C Cls Ms Erw Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 25Nb C Cls Ms Erw Pipes
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 150Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 80Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 25Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&F Ss Single Landing Valve 63Mm Dia
+FIRE FIGHTING SYSTEM  P&F Rrl Hose
+FIRE FIGHTING SYSTEM  P&F Gm Short Branch Pipe
+FIRE FIGHTING SYSTEM  P&F Fully Glazed Fhc 2000X1000Mm
+FIRE FIGHTING SYSTEM  P&F Ms Hose Cabinet 750X610X255Mm
+FIRE FIGHTING SYSTEM  P&F Swing Type Hose Reel Drum 36 Mtrs
+FIRE FIGHTING SYSTEM  SITC of 25Mm Single Actng Arv
+FIRE FIGHTING SYSTEM  P&F CI Body Btrfly Valve 80Nb
+FIRE FIGHTING SYSTEM  P&F CI Body Btrfly Valve 150Nb
+FIRE FIGHTING SYSTEM  P&I CI Body Nrv 150 Nb
+FIRE FIGHTING SYSTEM  P&F Dial Typ 100Mm Dia Pr Gauge
+FIRE FIGHTING SYSTEM  Pl&T of 150Nb C Cls Ms Erw Ug Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 150Nb C Cls Ms Erw Ug Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 150Nb C Cls Ms Erw Ug Pipes
+FIRE FIGHTING SYSTEM  P&F CI Body Btrfly Valve 150Nb
+FIRE FIGHTING SYSTEM  P&F CI Body Btrfly Valve 80Nb
+FIRE FIGHTING SYSTEM  P&F Ss Single Ext Hydrant Valve 63Mm Dia
+FIRE FIGHTING SYSTEM  P&F Rrl Hose
+FIRE FIGHTING SYSTEM  P&F Gm Short Branch Pipe
+FIRE FIGHTING SYSTEM  P&F Ms Hose Cabinet 750X610X255Mm
+FIRE FIGHTING SYSTEM  P&F Ss Fire Brigade Connection
+FIRE FIGHTING SYSTEM  0
+FIRE FIGHTING SYSTEM  P&C Valve Chamber 1000X1000X1000Mm
+FIRE FIGHTING SYSTEM  Pl&T of 25Nb C Cls Ms Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 32Nb C Cls Ms Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 40Nb C Cls Ms Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 50Nb C Cls Ms Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 65Nb C Cls Ms Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 80Nb C Cls Ms Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 100Nb C Cls Ms Pipes
+FIRE FIGHTING SYSTEM  Pl&T of 150Nb C Cls Ms Pipes
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 25Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 32Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 40Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 50Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 65Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 80Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 100Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&A 3 Coat of Painting On 150Nb Ms Pipe
+FIRE FIGHTING SYSTEM  P&F CI Btrfly Valve 100Mm Dia
+FIRE FIGHTING SYSTEM  P&F CI Btrfly Valve 150Mm Dia
+FIRE FIGHTING SYSTEM  P&F CI Nrv 150Mm Dia
+FIRE FIGHTING SYSTEM  P&F Upright Sprinkler
+FIRE FIGHTING SYSTEM  P&F Side Wall Sprinkler
+FIRE FIGHTING SYSTEM  P&F Pendent 79 C Sprinkler
+FIRE FIGHTING SYSTEM  P&F Pendent 68 C Sprinkler
+FIRE FIGHTING SYSTEM  P&F Flow Switch 150Mm Dia
+FIRE FIGHTING SYSTEM  P&F Flow Switch 100Mm Dia
+FIRE FIGHTING SYSTEM  P&F Flx Sprinkler Pipe 1000Mm
+FIRE FIGHTING SYSTEM  P&F Flx Sprinkler Pipe 1200Mm
+FIRE FIGHTING SYSTEM  P&F Flx Sprinkler Pipe 1500Mm
+FIRE FIGHTING SYSTEM  P&F Gm Arv 25Mm Dia
+FIRE FIGHTING SYSTEM  P&F Pr Gauge 100Mm Dia
+FIRE FIGHTING SYSTEM  P&F Alarm Gong
+FIRE FIGHTING SYSTEM  P&F Test Valve With Sight Glass 50Mm Dia
+FIRE FIGHTING SYSTEM  P&F Ss Fire Brigade 4 Way Connection
+FIRE FIGHTING SYSTEM  P&I Abc Type Extngshr 6Kg Cap
+FIRE FIGHTING SYSTEM  P&I of Water Co2 Extngshr 9Ltr Cap
+FIRE FIGHTING SYSTEM  P&I of Co2 Extngshr 4.5 Kg Cap
+FIRE FIGHTING SYSTEM  P&I Foam Type Extngshr 9 Ltr Cap
+FIRE ALARM DETECTION SYSTEM SITC of Ul Listed 10 Loop Fda Panel
+FIRE ALARM DETECTION SYSTEM SITC of Control Module
+FIRE ALARM DETECTION SYSTEM SITC of Relay Modules
+FIRE ALARM DETECTION SYSTEM SITC of Monitor Module
+FIRE ALARM DETECTION SYSTEM SITC of Issolator Module
+FIRE ALARM DETECTION SYSTEM SITC of Repeater Panel
+FIRE ALARM DETECTION SYSTEM SITC of Network Control Station
+FIRE ALARM DETECTION SYSTEM SITC of Graphics Display Unit
+FIRE ALARM DETECTION SYSTEM SITC of Adv Cloud Based Software
+FIRE ALARM DETECTION SYSTEM SITC of Multi Sensor Smoke+Deat Detector
+FIRE ALARM DETECTION SYSTEM SITC of Heat Detector
+FIRE ALARM DETECTION SYSTEM SITC of Manual Call Point
+FIRE ALARM DETECTION SYSTEM SITC of Directional Sounder
+FIRE ALARM DETECTION SYSTEM SITC of Telephone Jack
+FIRE ALARM DETECTION SYSTEM SITC of Telephone Receiver
+FIRE ALARM DETECTION SYSTEM SITC of Telephone Module
+FIRE ALARM DETECTION SYSTEM SITC of 2W Ceiling Speakers
+FIRE ALARM DETECTION SYSTEM SITC of 1.5Sqmmx 2C Frls Cable For Fda
+FIRE ALARM DETECTION SYSTEM SITC of 1Sqmmx 2C Flxbl Cable For Power
+FIRE ALARM DETECTION SYSTEM SITC of 20/25/32 Mm Dia Conduit
+FIRE ALARM DETECTION SYSTEM SITC of 24V Dc Power Supply Unit
+FIRE ALARM DETECTION SYSTEM SITC of Junction Box
+CCTC SERVEILLANCE SYSTEM SITC of Ip Fixed Dome Camera
+CCTC SERVEILLANCE SYSTEM SITC of Ip Fixed Box Camera
+CCTC SERVEILLANCE SYSTEM SITC of Ip Ptz Camera
+CCTC SERVEILLANCE SYSTEM SITC Power Supply Unit For Ptz
+CCTC SERVEILLANCE SYSTEM SITC of Network Attached Storage
+CCTC SERVEILLANCE SYSTEM SITC of Workstation With  Licence
+CCTC SERVEILLANCE SYSTEM SITC of Keybrd & Joystck For Ptz
+CCTC SERVEILLANCE SYSTEM SITC of 49" Led Color Panel
+CCTC SERVEILLANCE SYSTEM S&I of 6Mtr Ms Pole For Ptz
+CCTC SERVEILLANCE SYSTEM S&I of 4Mtr Ms Pole For Ptz
+CCTC SERVEILLANCE SYSTEM SITC of Ethernet Smart Switch 8 Port
+CCTC SERVEILLANCE SYSTEM SITC of Poe Lyr Ii Ethernet Swch 24 Port
+CCTC SERVEILLANCE SYSTEM SITC of 19" 42U Rack
+CCTC SERVEILLANCE SYSTEM SITC of Ip65/Ip67 Outdr 6U Rack
+CCTC SERVEILLANCE SYSTEM SITC of Cat 6A Utp Cable
+CCTC SERVEILLANCE SYSTEM SITC of 6C Sm Fiber Optic Cable
+CCTC SERVEILLANCE SYSTEM SITC of 3X1.5Sqmm Power Cable
+CCTC SERVEILLANCE SYSTEM SITC of Other Network Equip
+CCTC SERVEILLANCE SYSTEM S&L 40Mm Dia Hdpe Conduit
+CCTC SERVEILLANCE SYSTEM S&L 3/4" PVC Conduit
+UNDER VEHICLE SCANNER SYSTEM Supply of Uvss Unit
+UNDER VEHICLE SCANNER SYSTEM Supply of Central Montrng Console
+UNDER VEHICLE SCANNER SYSTEM Civil & Struc Work For Uvss
+UNDER VEHICLE SCANNER SYSTEM ITC of Uvss & Training
+SEWAGE TREATMENT PLANT (STP) SITC of Bar Screen
+SEWAGE TREATMENT PLANT (STP) Const of Grease Trap
+SEWAGE TREATMENT PLANT (STP) Supply of Ms Hot Dip GI Puddle Flange
+SEWAGE TREATMENT PLANT (STP) Supply of Plastic Manhole Step
+SEWAGE TREATMENT PLANT (STP) SITC of CI Mh Cover Wth Frame 600X900
+SEWAGE TREATMENT PLANT (STP) Supply of Vent Pipe 100Mm Dia
+SEWAGE TREATMENT PLANT (STP) SITC of Elec Type Level Indicator
+SEWAGE TREATMENT PLANT (STP) SITC of Sight Tube Wth Isso Vlv
+SEWAGE TREATMENT PLANT (STP) SITC of Submersible Sewage Pump
+SEWAGE TREATMENT PLANT (STP) SITC of Sludge Disposal Pump
+SEWAGE TREATMENT PLANT (STP) SITC of Plant Room Sump Pump
+SEWAGE TREATMENT PLANT (STP) SITC of Irrigation Pump
+SEWAGE TREATMENT PLANT (STP) SITC of Recirculation Pump
+SEWAGE TREATMENT PLANT (STP) SITC of Anoxic Tank Agitator
+SEWAGE TREATMENT PLANT (STP) SITC of Twin Type Rotary Air Blower
+SEWAGE TREATMENT PLANT (STP) SITC of Air Piping
+SEWAGE TREATMENT PLANT (STP) SITC of Non Clog Air Dispersion System
+SEWAGE TREATMENT PLANT (STP) SITC of Brnz Vlv & Air Dispersion Grid
+SEWAGE TREATMENT PLANT (STP) P&F All Piping & Isolation Ctrl Vlvs
+SEWAGE TREATMENT PLANT (STP) SITC of Mbbr Media
+SEWAGE TREATMENT PLANT (STP) SITC of Tube Setler Tank
+SEWAGE TREATMENT PLANT (STP) SITC of Uv Unit Flow Rate 2.5Lps Ifl
+SEWAGE TREATMENT PLANT (STP) SITC of Uv Unit Flow Rate 12Lps Fwtl
+SEWAGE TREATMENT PLANT (STP) SITC of Uv Unit Flow Rate 12Lps Mwtl
+SEWAGE TREATMENT PLANT (STP) Ft&C of Stp
+SEWAGE TREATMENT PLANT (STP) SITC of Flshng Water Trnsfr Pump 110M H
+SEWAGE TREATMENT PLANT (STP) SITC of Flshng Water Trnsfr Pump 75M H
+SEWAGE TREATMENT PLANT (STP) SITC of Nonclog Hrznt Water Pump 30M H
+SEWAGE TREATMENT PLANT (STP) SITC of Nonclog Hrznt Water Pump 10M H
+SEWAGE TREATMENT PLANT (STP) SITC of Nonclog Hrznt Water Pump 30M H
+SEWAGE TREATMENT PLANT (STP) P&L GI Pipe Hd Wth All Fittings
+SEWAGE TREATMENT PLANT (STP) P&F Ball Vlv & Btrfly Vlv of Rqd Sizes
+SEWAGE TREATMENT PLANT (STP) P&F CI Dual Plate Nrv of Reqd Sizes
+SEWAGE TREATMENT PLANT (STP) SITC of Vertcl Msep Multi Grade Filter
+SEWAGE TREATMENT PLANT (STP) SITC of Activated Carbon Filter
+SEWAGE TREATMENT PLANT (STP) SITC of 18 Plate Filter Press
+SEWAGE TREATMENT PLANT (STP) P&F Flow Meter 100Mm Dia Mdl
+SEWAGE TREATMENT PLANT (STP) P&F Flow Meter 80Mm Dia Ftl
+SEWAGE TREATMENT PLANT (STP) P&F Flow Meter 65Mm Dia Mkupwtr Line
+SEWAGE TREATMENT PLANT (STP) P&F Flow Meter 65Mm Dia Irrigation Line
+SEWAGE TREATMENT PLANT (STP) SITC of Manual & Auto Lvl Switch
+SEWAGE TREATMENT PLANT (STP) SITC of Softner Plant
+SEWAGE TREATMENT PLANT (STP) Approval From Pollution Board
+SEWAGE TREATMENT PLANT (STP) SITC of Mcc For Stp
